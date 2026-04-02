@@ -6,4 +6,4 @@ if [ ! -d "fricas0" ]; then
 fi
 
 cd fricas0
-find . -type f | sed 's|^./||' | python3 ../generate_fricas_fs_json.py > ../fricas-fs.json
+find . -type f | sed 's|^./||' | python3 ../generate_fricas_fs_json.py
