@@ -48,4 +48,4 @@ emconfigure ./configure \
   --with-tcp=no \
   --with-cmp=no
 
-emmake make -j"$(nproc 2>/dev/null || echo 2)" LDFLAGS="-O2 -s FORCE_FILESYSTEM=1 -s EXPORTED_RUNTIME_METHODS=['FS_createPath','FS_createDataFile','addRunDependency','removeRunDependency'] -s TOTAL_STACK=67108864 -s INITIAL_HEAP=1073741824 -s ALLOW_MEMORY_GROWTH=1 -s MAXIMUM_MEMORY=4294967296" EXEEXT=".html"
+emmake make -j"$(nproc 2>/dev/null || echo 2)" LDFLAGS="-lidbfs.js -O2 -s FORCE_FILESYSTEM=1 -s EXPORTED_RUNTIME_METHODS=['FS_createPath','FS_createDataFile','addRunDependency','removeRunDependency'] -s TOTAL_STACK=67108864 -s INITIAL_HEAP=1073741824 -s ALLOW_MEMORY_GROWTH=1 -s MAXIMUM_MEMORY=4294967296" EXEEXT=".html"
