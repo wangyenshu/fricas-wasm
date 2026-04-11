@@ -1,0 +1,2079 @@
+123745              (|AInterval| |AIntervalCategory&|)
+(|AbelianGroup&| |CoChainComplex| |DeltaComplex| |DeltaComplexFactory|
+                 |FiniteCubicalComplex| |FiniteSimplicialComplex|
+                 |FourierSeries| |QuadraticForm| |SimplicialComplexFactory|)
+(|AbelianMonoid&| |AbelianMonoidRing| |AbelianMonoidRing&| |CardinalNumber|
+                  |EuclideanModularRing| |FiniteAbelianMonoidRing|
+                  |FiniteAbelianMonoidRing&| |FramedModule| |FramedModule&|
+                  |FreeModule| |FreeModuleCategory| |FreeModuleCategory&|
+                  |FreeModuleCoefficientFunctions2| |GradedAlgebra|
+                  |GradedAlgebra&| |GradedModule| |GradedModule&|
+                  |IndexedMatrix| |ListMonoidOps| |Matrix| |MatrixCategory|
+                  |MatrixCategory&| |MatrixCategoryFunctions2|
+                  |MaybeSkewPolynomialCategory| |MaybeSkewPolynomialCategory&|
+                  |ModularField| |ModularRing| |PolynomialCategory|
+                  |PolynomialCategory&| |PolynomialCategoryLifting|
+                  |PolynomialRing| |RectangularMatrix|
+                  |RectangularMatrixCategory| |RectangularMatrixCategory&|
+                  |RectangularMatrixCategoryFunctions2| |RecurrenceOperator|
+                  |SparseMultivariatePolynomial| |SparseUnivariatePolynomial|
+                  |SquareMatrix| |SquareMatrixCategory| |SquareMatrixCategory&|
+                  |UnivariatePolynomialCategory|
+                  |UnivariatePolynomialCategory&|
+                  |UnivariatePolynomialCategoryFunctions2|)
+(|AbelianMonoidRing&| |FractionFreeFastGaussian| |LODOConvertions|
+                      |LinearOrdinaryDifferentialOperator3|
+                      |LinearOrdinaryDifferentialOperator3Aux|)
+(|AbelianSemiGroup&| |Color| |IncrementingMaps|)
+(|Aggregate&| |SplittingNode| |SplittingTree|)
+(|Algebra&| |CliffordAlgebra| |ContinuedFraction|
+            |ElementaryFunctionStructurePackage|
+            |ElementaryFunctionsGeneralizedUnivariatePowerSeries|
+            |ElementaryFunctionsUnivariateLaurentSeries|
+            |ElementaryFunctionsUnivariatePuiseuxSeries|
+            |EllipticFunctionsUnivariateTaylorSeries| |EvaluateCycleIndicators|
+            |Factored| |FortranExpression| |FourierSeries|
+            |FreeDivisionAlgebra| |FunctionSpaceToExponentialExpansion|
+            |FunctionSpaceToUnivariatePowerSeries|
+            |FunctionSpaceToUnivariatePowerSeries2| |LocalAlgebra|
+            |OrderedExpression| |PartialFraction| |RealClosure| |ResidueRing|
+            |STransformPackage| |SpecialFunctionUnivariateTaylorSeries|
+            |StreamExponentialSeriesTranscendentalFunctions|
+            |StreamTranscendentalFunctions|
+            |StreamTranscendentalFunctionsNonCommutative|
+            |TaylorSeriesExpansion| |TaylorSeriesExpansion&|
+            |TaylorSeriesExpansionGeneralized| |TaylorSeriesExpansionLaurent|
+            |TaylorSeriesExpansionPuiseux| |TaylorSeriesExpansionTaylor|
+            |UnivariateTaylorSeriesODESolver|)
+(|AlgFactor| |AlgebraicMultFact|)
+(|AlgebraicIntegrate| |AlgebraicIntegrate2| |AlgebraicIntegration|
+                      |AlgebraicNumber| |AlgebraicallyClosedField&|
+                      |ComplexTrigonometricManipulations|
+                      |DefiniteIntegrationTools| |DenominatorIntegration|
+                      |ElementaryFunctionSign|
+                      |ElementaryFunctionStructurePackage|
+                      |ElementaryIntegration| |ElementaryRischDEX|
+                      |ElementaryRischDEX2| |ExponentialExpansion|
+                      |ExpressionToUnivariatePowerSeries| |FunctionSpaceSum|
+                      |FunctionSpaceToExponentialExpansion|
+                      |FunctionSpaceToUnivariatePowerSeries|
+                      |FunctionSpaceToUnivariatePowerSeries2|
+                      |GenusZeroIntegration| |Kovacic| |ParametricIntegration|
+                      |ParametricRischDE| |PatternMatchIntegration|
+                      |PowerSeriesLimitPackage| |PureAlgebraicIntegration|
+                      |TrigonometricManipulations|
+                      |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|AlgebraicallyClosedFunctionSpace&| |ConstantLODE|
+                                     |ElementaryFunctionDefiniteIntegration|
+                                     |ElementaryFunctionLODESolver|
+                                     |ElementaryFunctionODESolver|
+                                     |FunctionSpaceComplexIntegration|
+                                     |FunctionSpaceComplexIntegrationAux|
+                                     |FunctionSpaceIntegration|
+                                     |IntegrationResultToFunction|
+                                     |InverseLaplaceTransform|
+                                     |JetBundleExpression|
+                                     |JetBundleXExpression| |LaplaceTransform|
+                                     |NonLinearFirstOrderODESolver|
+                                     |ODEIntegration|
+                                     |RealNormalizationUtilities|
+                                     |RootUtilities|)
+(|Library| |Result|)
+(|ArcTrigonometricFunctionCategory&|)
+(|AssociationList| |AssociationListAggregate&|)
+(|SparseMultivariateSkewPolynomial| |SparseUnivariateSkewPolynomial|
+                                    |UnivariateSkewPolynomial|)
+(|BagAggregate&|)
+(|BalancedPAdicRational|)
+(|ModuleOperator| |Operator|)
+(|BasicType&| |GeneralSparseTable| |ListPackage| |MatrixOperationsCategory|
+              |SparseTable| |UnittestAux| |VectorSpaceBasis|)
+(|FiniteBiCPO|)
+(|FreeModule| |OrdinaryDifferentialRing|)
+(|BinaryRecursiveAggregate&| |PendantTree|)
+(|BalancedBinaryTree| |BinarySearchTree| |BinaryTournament| |BinaryTree|
+                      |BinaryTreeCategory&|)
+(|BitAggregate&| |Bits| |IndexedBits|)
+(|GeneralModulePolynomial| |InnerPAdicInteger| |ModuleMonomial|
+                           |OrderedDirectProduct|)
+(|LatticeJoinOfMeets| |LatticeMeetOfJoins|)
+(|ILogic|)
+(|Kernel| |MakeCachableSet| |SortedCache|)
+(|SmallOrdinal|)
+(|InnerPrimeField| |Integer| |PrimeField| |RomanNumeral| |SingleInteger|
+                   |SingletonAsOrderedSet|)
+(|CharacterClass|)
+(|AlgebraicNumber| |BalancedFactorisation| |ConstantLODE|
+                   |DenominatorIntegration|
+                   |ElementaryFunctionDefiniteIntegration|
+                   |ElementaryFunctionLODESolver| |ElementaryFunctionODESolver|
+                   |ElementaryIntegration| |ElementaryRischDEX|
+                   |ElementaryRischDEX2| |FullPartialFractionExpansion|
+                   |FunctionSpaceComplexIntegration|
+                   |FunctionSpaceComplexIntegrationAux|
+                   |FunctionSpaceIntegration| |FunctionSpacePrimitiveElement|
+                   |FunctionSpaceRationalRoots| |GenusZeroIntegration|
+                   |GroebnerFactorizationPackage| |InnerAlgFactor|
+                   |InnerMultFact| |IntegrateSolutions|
+                   |InternalRationalUnivariateRepresentationPackage|
+                   |InverseLaplaceTransform| |Kovacic| |LaplaceTransform|
+                   |LinearOrdinaryDifferentialOperatorFactorizer|
+                   |MRationalFactorize| |MachineFloat| |MultivariateFactorize|
+                   |NonLinearFirstOrderODESolver| |ODEIntegration|
+                   |ParametricIntegration| |ParametricLinearEquations|
+                   |ParametricRischDE| |PartialFractionPackage| |PiDomain|
+                   |PolynomialSolveByFormulas| |PrimitiveElement|
+                   |PrimitiveRatDE| |PrimitiveRatRicDE|
+                   |PureAlgebraicIntegration| |PureAlgebraicLODE|
+                   |RadicalSolvePackage| |RationalFunctionDefiniteIntegration|
+                   |RationalFunctionIntegration| |RationalIntegration|
+                   |RationalLODE| |RationalRicDE|
+                   |RationalUnivariateRepresentationPackage|
+                   |RealNormalizationUtilities| |TransSolvePackage|)
+(|FiniteCoDcpo|)
+(|Formatter| |ModMonic|)
+(|AssociatedJordanAlgebra| |AssociatedLieAlgebra| |Cell| |ErrorIndicator|
+                           |FakePolynomial| |Float| |Formatter|
+                           |FortranScalarType| |InfiniteTuple| |Lambda|
+                           |LieSquareMatrix| |MakeCachableSet|
+                           |NewSparseMultivariatePolynomial|
+                           |NewSparseUnivariatePolynomial| |OutputBox|
+                           |PiDomain| |QueryEquation| |RectangularMatrix|
+                           |SimpleCell| |SparseEchelonMatrix| |SquareMatrix|
+                           |Switch| |SymbolTable| |Tableau| |TheSymbolTable|
+                           |Tuple| |Variable| |VectorSpaceBasis|)
+(|Collection&|)
+(|FunctionSpaceSum| |Guess| |GuessExpBin| |JetBundleExpression|
+                    |JetBundleXExpression| |RecurrenceOperator|)
+(|Algebra| |Algebra&| |AlgebraGivenByStructuralConstants|
+           |AssociatedJordanAlgebra| |AssociatedLieAlgebra| |Bialgebra|
+           |CartesianTensor| |CartesianTensorFunctions2|
+           |CharacteristicPolynomial|
+           |CharacteristicPolynomialInMonogenicalAlgebra|
+           |CharacteristicPolynomialPackage| |Coalgebra|
+           |CoerceVectorMatrixPackage| |Complex| |ComplexCategory|
+           |ComplexCategory&| |ComplexFunctions2| |ComplexPattern|
+           |ComplexPatternMatch| |Distribution| |DistributionCategory|
+           |DistributionContinuedFractionPackage| |DistributionFunctions2|
+           |DistributionPackage| |DistributionPolynomialPackage|
+           |EuclideanModularRing| |FiniteRankAlgebra| |FiniteRankAlgebra&|
+           |FiniteRankNonAssociativeAlgebra| |FiniteRankNonAssociativeAlgebra&|
+           |FourierSeries| |FramedAlgebra| |FramedAlgebra&|
+           |FramedNonAssociativeAlgebra| |FramedNonAssociativeAlgebra&|
+           |FramedNonAssociativeAlgebraFunctions2| |FreeLieAlgebra|
+           |FreeModuleFunctions2| |FreeNilpotentLie| |GeneralModulePolynomial|
+           |GeneralQuaternion| |GenericNonAssociativeAlgebra| |GradedAlgebra|
+           |GradedAlgebra&| |GradedModule| |GradedModule&| |HopfAlgebra|
+           |IntegerMod| |LieAlgebra| |LieAlgebra&| |LieExponentials|
+           |LiePolynomial| |LieSquareMatrix| |LocalAlgebra| |Localize|
+           |MatrixLinearAlgebraFunctions| |ModularField|
+           |ModularHermitePadeSolver| |ModularRing| |Module| |Module&|
+           |MomentPackage| |MonogenicAlgebra| |MonogenicAlgebra&|
+           |NonAssociativeAlgebra| |NonAssociativeAlgebra&|
+           |NumberTheoreticPolynomialFunctions| |Octonion| |OctonionCategory|
+           |OctonionCategory&| |OctonionCategoryFunctions2|
+           |OrthogonalPolynomialFunctions| |Quaternion| |QuaternionCategory|
+           |QuaternionCategory&| |QuaternionCategoryFunctions2| |ResidueRing|
+           |STransformPackage| |Sequence| |SequenceCategory|
+           |SequenceFunctions2| |SimpleAlgebraicExtension|
+           |StreamExponentialSeriesOperations|
+           |StreamExponentialSeriesTranscendentalFunctions| |TensorPower|
+           |TensorPowerCategory| |TensorPowerCategory&| |TensorPowerFunctions2|
+           |TensorProduct| |TensorProductCategory| |TensorProductProperty|
+           |XPBWPolynomial|)
+(|CardinalNumber| |CyclicGroup| |InfiniteCyclicGroup| |NonNegativeInteger|
+                  |NonNegativeRational| |Permanent| |PositiveInteger|)
+(|AlgebraicFunction| |AlgebraicIntegrate| |AlgebraicIntegrate2|
+                     |AlgebraicIntegration| |AlgebraicallyClosedFunctionSpace|
+                     |AlgebraicallyClosedFunctionSpace&| |ApplyRules|
+                     |CombinatorialFunction|
+                     |ComplexTrigonometricManipulations| |ConstantLODE|
+                     |ConstantLinearDependence| |CyclicGroup| |DeRhamComplex|
+                     |DefiniteIntegrationTools| |DegreeReductionPackage|
+                     |DenominatorIntegration| |DihedralGroup|
+                     |ElementaryFunction|
+                     |ElementaryFunctionDefiniteIntegration|
+                     |ElementaryFunctionLODESolver|
+                     |ElementaryFunctionODESolver| |ElementaryFunctionSign|
+                     |ElementaryFunctionStructurePackage|
+                     |ElementaryIntegration| |ElementaryRischDEX|
+                     |ElementaryRischDEX2| |ExponentialExpansion|
+                     |ExponentialOfUnivariatePuiseuxSeries| |Expression|
+                     |ExpressionFactorPolynomial| |ExpressionFunctions2|
+                     |ExpressionLinearSolve| |ExpressionSolve|
+                     |ExpressionSpaceODESolver|
+                     |ExpressionToUnivariatePowerSeries|
+                     |FreeModuleCoefficientFunctions2| |FreeModuleFunctions2|
+                     |FunctionSpace| |FunctionSpace2| |FunctionSpace2&|
+                     |FunctionSpaceAssertions| |FunctionSpaceAttachPredicates|
+                     |FunctionSpaceComplexIntegration|
+                     |FunctionSpaceComplexIntegrationAux|
+                     |FunctionSpaceFunctions2| |FunctionSpaceIntegration|
+                     |FunctionSpacePrimitiveElement|
+                     |FunctionSpaceRationalRoots| |FunctionSpaceReduce|
+                     |FunctionSpaceSum| |FunctionSpaceToExponentialExpansion|
+                     |FunctionSpaceToUnivariatePowerSeries|
+                     |FunctionSpaceToUnivariatePowerSeries2|
+                     |FunctionalSpecialFunction|
+                     |GenerateUnivariatePowerSeries| |GenusZeroIntegration|
+                     |InnerTrigonometricManipulations|
+                     |IntegrationResultRFToFunction|
+                     |IntegrationResultToFunction| |IntegrationTools|
+                     |InverseLaplaceTransform| |Kernel| |KernelCategory|
+                     |KernelFunctions2| |LaplaceTransform|
+                     |LiouvillianFunction| |NonLinearFirstOrderODESolver|
+                     |ODEIntegration| |ParametricIntegration|
+                     |ParametricRischDE| |PatternMatchFunctionSpace|
+                     |PatternMatchIntegration| |PatternMatchKernel|
+                     |PatternMatchPolynomialCategory| |PatternMatchTools|
+                     |PiCoercions| |PointsOfFiniteOrder|
+                     |PolynomialSolveByFormulas| |PowerSeriesLimitPackage|
+                     |PureAlgebraicIntegration| |RadicalSolvePackage|
+                     |RationalFunctionDefiniteIntegration|
+                     |RationalFunctionSum| |RealNormalizationUtilities|
+                     |RecurrenceOperator| |RewriteRule| |RootFSSplit|
+                     |RootUtilities| |Ruleset|
+                     |TopLevelDrawFunctionsForAlgebraicCurves|
+                     |TransSolvePackage| |TransSolvePackageService|
+                     |TranscendentalManipulations| |TrigonometricManipulations|
+                     |TrigonometricManipulationsAux|
+                     |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|AlgebraicNumber| |ComplexDoubleFloatMatrix| |ComplexDoubleFloatVector|
+                   |ComplexRootFindingPackage| |ComplexRootPackage|
+                   |ComplexTrigonometricManipulations|
+                   |InnerTrigonometricManipulations|)
+(|Complex| |ComplexCategory&| |ComplexIntegerSolveLinearPolynomialEquation|
+           |ComplexPattern| |ComplexPatternMatch| |MachineComplex|)
+(|ComplexDoubleFloatMatrix|)
+(|AlgebraicNumber| |ApplyRules| |Boolean| |CharacterClass| |ComplexPattern|
+                   |CyclicGroup| |DoubleFloat| |DrawNumericHack|
+                   |ExpressionSolve| |ExpressionSpaceODESolver| |Float|
+                   |FullPartialFractionExpansion| |GuessFinite|
+                   |GuessFiniteFunctions| |InfiniteCyclicGroup|
+                   |InnerPrimeField| |InputForm| |Integer| |IntegerMod|
+                   |LaurentPolynomial| |MakeBinaryCompiledFunction|
+                   |MakeFloatCompiledFunction| |MakeFunction|
+                   |MakeUnaryCompiledFunction| |NonNegativeInteger|
+                   |NonNegativeRational| |Numeric| |OrderedVariableList|
+                   |OutputForm| |ParametricLinearEquations| |Partition|
+                   |PatternMatch| |PatternMatchFunctionSpace|
+                   |PatternMatchKernel| |PatternMatchPolynomialCategory|
+                   |PatternMatchQuotientFieldCategory| |PatternMatchTools|
+                   |PiDomain| |PlotFunctions1| |PositiveInteger| |PrimeField|
+                   |RecurrenceOperator| |RewriteRule| |Ruleset| |SingleInteger|
+                   |Symbol| |TopLevelDrawFunctions|)
+(|FiniteDcpo|)
+(|Dequeue|)
+(|Dictionary&|)
+(|DictionaryOperations&|)
+(|DifferentialExtension&| |Factored| |LaurentPolynomial|)
+(|DifferentialPolynomialCategory&| |DifferentialSparseMultivariatePolynomial|
+                                   |OrderlyDifferentialPolynomial|
+                                   |SequentialDifferentialPolynomial|)
+(|AlgebraicNumber| |DifferentialRing&| |DoubleFloat| |Float| |LODOConvertions|
+                   |LinearOrdinaryDifferentialOperator1|
+                   |LinearOrdinaryDifferentialOperator2|
+                   |LinearOrdinaryDifferentialOperator3|
+                   |LinearOrdinaryDifferentialOperator3Aux|
+                   |OrdinaryDifferentialRing|)
+(|DifferentialPolynomialCategory| |DifferentialPolynomialCategory&|
+                                  |DifferentialSparseMultivariatePolynomial|
+                                  |DifferentialVariableCategory&|
+                                  |OrderlyDifferentialVariable|
+                                  |SequentialDifferentialVariable|)
+(|DirectProductMatrixModule| |DistributedMultivariatePolynomial|
+                             |RectangularMatrix| |SquareMatrix|)
+(|DirectProduct| |DirectProductCategory&| |DirectProductMatrixModule|
+                 |DirectProductModule| |DistributedJetBundlePolynomial|
+                 |GeneralDistributedMultivariatePolynomial|
+                 |GeneralModulePolynomial| |HomogeneousDirectProduct|
+                 |JetGroebner| |OrderedDirectProduct|
+                 |RectangularMatrixCategory| |RectangularMatrixCategory&|
+                 |RectangularMatrixCategoryFunctions2|
+                 |SplitHomogeneousDirectProduct| |SquareMatrixCategory|
+                 |SquareMatrixCategory&|)
+(|Distribution|)
+(|DivisionRing&| |FreeDivisionAlgebra| |InnerMatrixLinearAlgebraFunctions|)
+(|ComplexDoubleFloatMatrix| |ComplexDoubleFloatVector| |DoubleFloatMatrix|
+                            |DoubleFloatVector| |Float| |InputForm| |PiDomain|
+                            |SExpression|)
+(|DoubleFloatMatrix|)
+(|ElementaryFunctionCategory&| |GaloisGroupFactorizationUtilities|)
+(|Automorphism| |DirichletRing| |LinearOrdinaryDifferentialOperator2|
+                |ModuleOperator| |Operator| |RewriteRule| |Ruleset|)
+(|EltableAggregate&|)
+(|EntireRing&|)
+(|RewriteRule|)
+(|CRApackage| |ContinuedFraction| |EuclideanDomain&|
+              |EuclideanGroebnerBasisPackage| |EuclideanModularRing|
+              |FractionalIdeal| |FractionalIdealAsModule|
+              |FractionalIdealFunctions2| |FunctionFieldIntegralBasis|
+              |GenExEuclid| |GeneralHenselPackage| |InnerModularGcd|
+              |InnerMultFact| |IntegerLocalizedAtPrime| |IntegralBasisTools|
+              |InverseLaplaceTransform| |MPolyCatPolyFactorizer|
+              |MRationalFactorize| |ModularHermitianRowReduction|
+              |MultivariateSquareFree| |ParametricLinearEquations|
+              |PartialFraction| |PartialFractionPackage| |PolynomialGcdPackage|
+              |RationalFunctionDefiniteIntegration| |SmithNormalForm|)
+(|Evalable&|)
+(|UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|DeRhamComplex| |LinearOrdinaryDifferentialOperatorFactorizer2|
+                 |OrderedExpression|)
+(|AlgebraicManipulations| |AlgebraicNumber| |ExpressionSpaceFunctions1|
+                          |ExpressionSpaceFunctions2| |FortranExpression|)
+(|ExpressionSpace2&|)
+(|ExtensibleLinearAggregate&| |FlexibleArray| |IndexedFlexibleArray|)
+(|ExtensionField&|)
+(|CubicalFacet| |FacetCategory&| |OrientedFacet| |ProductFacet|)
+(|ModularAlgebraicGcdTools4| |ModularEvaluation2|)
+(|AlgebraicFunctionField| |AlgebraicHermiteIntegration|
+                          |AlgebraicManipulations| |BoundIntegerRoots|
+                          |CharacteristicPolynomial2| |CliffordAlgebra|
+                          |ComplexRootFindingPackage| |ComplexRootPackage|
+                          |ContinuedFraction| |CoordinateSystems|
+                          |DenavitHartenbergMatrix| |DoubleResultantPackage|
+                          |EllipticFunctionsUnivariateTaylorSeries|
+                          |ExponentialOfUnivariatePuiseuxSeries|
+                          |ExtensionField| |ExtensionField&| |Field&|
+                          |FindOrderFinite| |FiniteAlgebraicExtensionField|
+                          |FiniteAlgebraicExtensionField&| |FiniteDivisor|
+                          |FiniteDivisorCategory| |FiniteDivisorCategory&|
+                          |FiniteDivisorFunctions2| |FloatingComplexPackage|
+                          |FloatingRealPackage| |FreeDivisionAlgebra|
+                          |FullPartialFractionExpansion|
+                          |FunctionSpaceToUnivariatePowerSeries|
+                          |FunctionSpaceToUnivariatePowerSeries2|
+                          |GaloisGroupFactorizationUtilities|
+                          |GeneralizedFiniteMoebiusFunction|
+                          |GenerateEllipticIntegrals| |GosperSummationMethod|
+                          |Guess| |GuessExpBin| |HyperellipticFiniteDivisor|
+                          |InnerAlgFactor| |InnerEigenPackage|
+                          |InnerNumericEigenPackage|
+                          |InnerNumericFloatSolvePackage| |IntegrateSolutions|
+                          |IntegrationResult| |IntegrationResultFunctions2|
+                          |LUDecomposition| |LiftLinearDependence|
+                          |LinearCombinationUtilities|
+                          |LinearOrdinaryDifferentialOperatorFactorizer|
+                          |LinearOrdinaryDifferentialOperatorsOps|
+                          |LinearSystemMatrixPackage|
+                          |LinearSystemMatrixPackage1| |MachineFloat|
+                          |ModularField| |MoebiusTransform|
+                          |MonomialExtensionTools| |NumericComplexEigenPackage|
+                          |NumericRealEigenPackage| |ODETools|
+                          |OrePolynomialMatrixOperations|
+                          |PadeApproximantPackage| |PadeApproximants|
+                          |PadeContinuousFraction| |ParallelIntegrationTools|
+                          |ParametricTranscendentalIntegration|
+                          |PartialFraction| |PartialFractionUtilities|
+                          |PiDomain| |PolynomialCategoryQuotientFunctions|
+                          |PolynomialIdeal| |PolynomialInterpolation|
+                          |PolynomialInterpolationAlgorithms| |PolynomialRoots|
+                          |PolynomialSolveByFormulas| |PrimitiveElement|
+                          |PrimitiveRatDE| |PrimitiveRatRicDE|
+                          |PseudoLinearNormalForm| |PureAlgebraicLODE|
+                          |QuadraticForm| |RDEaux| |RationalIntegration|
+                          |RationalInterpolation| |RationalLODE|
+                          |RationalRicDE| |RealClosure|
+                          |RealPolynomialUtilitiesPackage|
+                          |RealRootCharacterizationCategory|
+                          |RealRootCharacterizationCategory&| |ReduceLODE|
+                          |ReducedDivisor| |ReductionOfOrder| |ResidueRing|
+                          |RightOpenIntervalRootCharacterization|
+                          |SpecialFunctionUnivariateTaylorSeries|
+                          |SystemODESolver| |TangentExpansions| |TaylorSolve|
+                          |TranscendentalHermiteIntegration|
+                          |TranscendentalIntegration| |VectorSpaceBasis|
+                          |WeierstrassPreparation|
+                          |XDistributedPolynomialFunctions| |XPolynomialFactor|)
+(|FieldOfPrimeCharacteristic&| |FiniteFieldPolynomialPackage2|)
+(|File| |FortranTemplate| |KeyedAccessFile| |TextFile|)
+(|File| |FortranTemplate| |KeyedAccessFile| |TextFile|)
+(|FileName|)
+(|Boolean| |DiscreteLogarithmPackage| |FindOrderFinite| |Finite&|
+           |FiniteGroupPackage| |FiniteLattice| |IntegerMod| |ReducedDivisor|
+           |SetOfMIntegersInOneToN|)
+(|ExtendedPolynomialReduction| |FiniteAbelianMonoidRing&|
+                               |FiniteAbelianMonoidRingFunctions2|
+                               |FractionFreeFastGaussianFractions|
+                               |GroebnerInternalPackage| |GroebnerPackage|
+                               |PolynomialRing| |SymmetricPolynomial|
+                               |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|FiniteAlgebraicExtensionField&| |FiniteField| |FiniteFieldCyclicGroup|
+                                  |FiniteFieldCyclicGroupExtension|
+                                  |FiniteFieldCyclicGroupExtensionByPolynomial|
+                                  |FiniteFieldExtension|
+                                  |FiniteFieldExtensionByPolynomial|
+                                  |FiniteFieldHomomorphisms|
+                                  |FiniteFieldNormalBasis|
+                                  |FiniteFieldNormalBasisExtension|
+                                  |FiniteFieldNormalBasisExtensionByPolynomial|
+                                  |InnerFiniteField| |InnerPrimeField|
+                                  |NormRetractPackage| |PrimeField|)
+(|FiniteLattice|)
+(|FiniteDivisor| |FiniteDivisorCategory&| |HyperellipticFiniteDivisor|)
+(|ChineseRemainderToolsForIntegralBases| |FiniteFieldCategory&|
+                                         |FiniteFieldCyclicGroupExtension|
+                                         |FiniteFieldCyclicGroupExtensionByPolynomial|
+                                         |FiniteFieldExtension|
+                                         |FiniteFieldExtensionByPolynomial|
+                                         |FiniteFieldFunctions|
+                                         |FiniteFieldHomomorphisms|
+                                         |FiniteFieldNormalBasisExtension|
+                                         |FiniteFieldNormalBasisExtensionByPolynomial|
+                                         |FiniteFieldPolynomialPackage|
+                                         |FiniteFieldPolynomialPackage2|
+                                         |FiniteFieldSolveLinearPolynomialEquation|
+                                         |GuessFinite| |GuessFiniteFunctions|
+                                         |InnerNormalBasisFieldFunctions|
+                                         |InnerPrimeField|
+                                         |ModularFactorizationK|
+                                         |ModularFactorizationTools3|
+                                         |MultFiniteFactorize|
+                                         |NormRetractPackage|
+                                         |PAdicWildFunctionFieldIntegralBasis|
+                                         |PrimeField| |TwoFactorize|
+                                         |UnivariateFiniteFieldFactorize|
+                                         |VectorPolynomialOperationsF|
+                                         |WildFunctionFieldIntegralBasis|)
+(|DirectedGraph| |FiniteGraph&| |FunctionGraph| |MultifunctionGraph|
+                 |UndirectedGraph| |WeightedGraph|)
+(|CyclicGroup| |DihedralGroup| |FiniteGroup&|)
+(|BezoutMatrix| |CommonDenominator| |FiniteLinearAggregateSort|
+                |InnerIndexedTwoDimensionalArray|
+                |InnerMatrixLinearAlgebraFunctions|
+                |InnerMatrixQuotientFieldFunctions| |LinearSystemMatrixPackage|
+                |MatrixCategory| |MatrixCategory&| |MatrixCategoryFunctions2|
+                |MatrixLinearAlgebraFunctions| |MatrixManipulation|
+                |MultiVariableCalculusFunctions| |SmithNormalForm|
+                |TriangularMatrixOperations| |TwoDimensionalArrayFunctions|)
+(|FiniteRankAlgebra&|)
+(|FiniteRankNonAssociativeAlgebra&|)
+(|CharacterClass| |FiniteSetAggregate&| |FiniteSetAggregateFunctions2| |Set|)
+(|CyclicGroup| |DihedralGroup| |InfiniteCyclicGroup|)
+(|AlgebraicNumber| |DrawNumericHack| |MachineFloat| |Numeric|
+                   |OrderedVariableList| |PiDomain| |Symbol|)
+(|DoubleFloat| |Float| |FloatingPointSystem&|
+               |GaloisGroupFactorizationUtilities| |Interval|
+               |IntervalCategory| |MachineFloat| |NumericContinuedFraction|
+               |NumericalQuadrature|)
+(|Format1D| |Format2D| |FormatLaTeX| |FormatMathJax| |Formatter|
+            |FormatterCategory&|)
+(|FortranExpression| |MachineComplex| |MachineFloat| |MachineInteger|)
+(|FortranProgram| |SimpleFortranProgram|)
+(|FortranProgram|)
+(|AlgebraicFunctionField| |AlgebraicHermiteIntegration| |AlgebraicIntegrate|
+                          |AlgebraicIntegrate2| |AlgebraicNumber|
+                          |BoundIntegerRoots| |ChangeOfVariable|
+                          |ContinuedFraction| |DoubleResultantPackage|
+                          |ElementaryFunctionStructurePackage|
+                          |ElementaryFunctionsGeneralizedUnivariatePowerSeries|
+                          |ElementaryFunctionsUnivariateLaurentSeries|
+                          |ElementaryFunctionsUnivariatePuiseuxSeries|
+                          |EllipticFunctionsUnivariateTaylorSeries|
+                          |EvaluateCycleIndicators| |FindOrderFinite|
+                          |FiniteDivisor| |FiniteDivisorCategory|
+                          |FiniteDivisorCategory&| |FiniteDivisorFunctions2|
+                          |FourierSeries| |FractionFreeFastGaussianFractions|
+                          |FullPartialFractionExpansion|
+                          |FunctionFieldCategory| |FunctionFieldCategory&|
+                          |FunctionFieldCategoryFunctions2|
+                          |FunctionSpaceToExponentialExpansion|
+                          |FunctionSpaceToUnivariatePowerSeries|
+                          |FunctionSpaceToUnivariatePowerSeries2|
+                          |GenerateEllipticIntegrals|
+                          |GenericNonAssociativeAlgebra|
+                          |GosperSummationMethod| |HyperellipticFiniteDivisor|
+                          |IntegerLocalizedAtPrime| |IntegrateSolutions|
+                          |IntegrationResult| |Kovacic| |LaurentPolynomial|
+                          |LieExponentials|
+                          |LinearOrdinaryDifferentialOperatorFactorizer|
+                          |MPolyCatRationalFunctionFactorizer|
+                          |MRationalFactorize| |MachineFloat|
+                          |ModularEvaluation2| |MultipleMap|
+                          |OrderedExpression| |PiDomain| |PointsOfFiniteOrder|
+                          |PointsOfFiniteOrderRational|
+                          |PointsOfFiniteOrderTools| |PrimitiveRatDE|
+                          |PrimitiveRatRicDE| |PureAlgebraicLODE|
+                          |RadicalFunctionField| |RationalFactorize|
+                          |RationalFunctionFactor| |RationalLODE|
+                          |RationalRetractions| |RationalRicDE|
+                          |RealZeroPackageQ| |ReducedDivisor|
+                          |STransformPackage|
+                          |SpecialFunctionUnivariateTaylorSeries|
+                          |StreamExponentialSeriesTranscendentalFunctions|
+                          |StreamTranscendentalFunctions|
+                          |StreamTranscendentalFunctionsNonCommutative|
+                          |TaylorSeriesExpansion| |TaylorSeriesExpansion&|
+                          |TaylorSeriesExpansionGeneralized|
+                          |TaylorSeriesExpansionLaurent|
+                          |TaylorSeriesExpansionPuiseux|
+                          |TaylorSeriesExpansionTaylor|
+                          |UnivariateTaylorSeriesODESolver|
+                          |XExponentialPackage|)
+(|FractionalIdeal| |FractionalIdealAsModule| |FractionalIdealFunctions2|
+                   |FramedAlgebra&| |FunctionFieldIntegralBasis|
+                   |IntegralBasisTools| |NumberFieldIntegralBasis|
+                   |WildFunctionFieldIntegralBasis|)
+(|FramedModule&|)
+(|AlgebraGivenByStructuralConstants| |AlgebraPackage|
+                                     |FramedNonAssociativeAlgebra&|
+                                     |FramedNonAssociativeAlgebraFunctions2|
+                                     |GenericNonAssociativeAlgebra|
+                                     |LieSquareMatrix|)
+(|LiePolynomial|)
+(|AlgebraGivenByStructuralConstants| |FreeModule| |FreeModuleCategory&|
+                                     |FreeModuleCoefficientFunctions2|
+                                     |FreeModuleFunctions2| |LiePolynomial|
+                                     |TensorPower| |TensorPowerFunctions2|
+                                     |TensorProduct| |XDistributedPolynomial|
+                                     |XPBWPolynomial| |XPolynomial|
+                                     |XPolynomialRing| |XRecursivePolynomial|)
+(|XDistributedPolynomial| |XPolynomial| |XRecursivePolynomial|)
+(|Factored| |FullyEvalableOver&|)
+(|FullyLinearlyExplicitOver&|)
+(|Factored| |FullyRetractableTo&| |LaurentPolynomial| |Octonion|
+            |OnePointCompletion| |OrderedCompletion| |RealClosure|)
+(|AlgebraicFunctionField| |AlgebraicHermiteIntegration| |AlgebraicIntegrate|
+                          |AlgebraicIntegrate2| |DoubleResultantPackage|
+                          |FindOrderFinite| |FiniteDivisor|
+                          |FiniteDivisorCategory| |FiniteDivisorCategory&|
+                          |FiniteDivisorFunctions2| |FunctionFieldCategory&|
+                          |FunctionFieldCategoryFunctions2|
+                          |HyperellipticFiniteDivisor| |PointsOfFiniteOrder|
+                          |PointsOfFiniteOrderRational| |PureAlgebraicLODE|
+                          |RadicalFunctionField| |ReducedDivisor|)
+(|AlgebraicFunction| |AlgebraicIntegrate| |AlgebraicIntegrate2|
+                     |AlgebraicIntegration| |ApplyRules|
+                     |CombinatorialFunction|
+                     |ComplexTrigonometricManipulations|
+                     |ConstantLinearDependence| |DefiniteIntegrationTools|
+                     |DenominatorIntegration| |ElementaryFunction|
+                     |ElementaryFunctionSign|
+                     |ElementaryFunctionStructurePackage|
+                     |ElementaryIntegration| |ElementaryRischDEX|
+                     |ElementaryRischDEX2| |ExponentialExpansion| |Expression|
+                     |ExpressionFactorPolynomial| |ExpressionLinearSolve|
+                     |ExpressionSolve| |ExpressionSpaceODESolver|
+                     |ExpressionToUnivariatePowerSeries|
+                     |FunctionSpaceAssertions| |FunctionSpaceAttachPredicates|
+                     |FunctionSpaceFunctions2| |FunctionSpacePrimitiveElement|
+                     |FunctionSpaceRationalRoots| |FunctionSpaceReduce|
+                     |FunctionSpaceSum| |FunctionSpaceToExponentialExpansion|
+                     |FunctionSpaceToUnivariatePowerSeries|
+                     |FunctionSpaceToUnivariatePowerSeries2|
+                     |FunctionalSpecialFunction|
+                     |GenerateUnivariatePowerSeries| |GenusZeroIntegration|
+                     |Guess| |GuessExpBin| |InnerTrigonometricManipulations|
+                     |IntegrationTools| |JetBundleExpression|
+                     |JetBundleXExpression| |LiouvillianFunction|
+                     |ParametricIntegration| |ParametricRischDE|
+                     |PatternMatchFunctionSpace| |PatternMatchIntegration|
+                     |PointsOfFiniteOrder| |PowerSeriesLimitPackage|
+                     |PureAlgebraicIntegration| |RecurrenceOperator|
+                     |RewriteRule| |RootFSSplit| |Ruleset|
+                     |SimpleFortranProgram|
+                     |TopLevelDrawFunctionsForAlgebraicCurves|
+                     |TranscendentalManipulations| |TrigonometricManipulations|
+                     |TrigonometricManipulationsAux|
+                     |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|FunctionSpace2&|)
+(|AlgebraicIntegrate| |BalancedFactorisation|
+                      |CylindricalAlgebraicDecompositionUtilities|
+                      |DefiniteIntegrationTools| |DenominatorIntegration|
+                      |EigenPackage| |ElementaryFunctionSign|
+                      |ElementaryIntegration| |ElementaryRischDEX2|
+                      |ExponentialExpansion| |ExpressionFactorPolynomial|
+                      |ExpressionToUnivariatePowerSeries|
+                      |ExtendedPolynomialReduction| |FGLMIfCanPackage|
+                      |FractionFreeFastGaussian|
+                      |FractionFreeFastGaussianFractions|
+                      |FunctionSpaceComplexIntegration|
+                      |FunctionSpaceComplexIntegrationAux|
+                      |FunctionSpaceIntegration|
+                      |FunctionSpaceToExponentialExpansion|
+                      |FunctionSpaceToUnivariatePowerSeries|
+                      |FunctionSpaceToUnivariatePowerSeries2| |GcdBasis|
+                      |GcdDomain&| |GenusZeroIntegration|
+                      |GroebnerInternalPackage| |GroebnerPackage|
+                      |GroebnerSolve| |Guess| |GuessExpBin|
+                      |InnerNumericFloatSolvePackage|
+                      |IntegrationResultRFToFunction|
+                      |IntegrationResultToFunction| |JetGroebner|
+                      |LazardSetSolvingPackage| |LeadingCoefDetermination|
+                      |LexTriangularPackage| |LinGroebnerPackage|
+                      |NormInMonogenicAlgebra| |NormalizationPackage|
+                      |NormalizedTriangularSetCategory| |ParametricIntegration|
+                      |ParametricRischDE| |PatternMatchIntegration|
+                      |PolyGroebner| |PolynomialSquareFree|
+                      |PowerSeriesLimitPackage| |PureAlgebraicIntegration|
+                      |QuasiAlgebraicSet| |QuasiComponentPackage|
+                      |RationalFunctionLimitPackage| |RationalFunctionSign|
+                      |RealNormalizationUtilities| |RegularChain|
+                      |RegularSetDecompositionPackage| |RegularTriangularSet|
+                      |RegularTriangularSetCategory|
+                      |RegularTriangularSetCategory&|
+                      |RegularTriangularSetGcdPackage| |RootUtilities|
+                      |SquareFreeNormalizedTriangularSetCategory|
+                      |SquareFreeQuasiComponentPackage|
+                      |SquareFreeRegularSetDecompositionPackage|
+                      |SquareFreeRegularTriangularSet|
+                      |SquareFreeRegularTriangularSetCategory|
+                      |SquareFreeRegularTriangularSetGcdPackage|
+                      |TranscendentalManipulations|
+                      |TrigonometricManipulations|
+                      |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|CartesianTensor| |GradedAlgebra&|)
+(|CartesianTensor| |GradedModule&|)
+(|Automorphism| |FiniteGroupPackage| |FractionalIdeal| |FreeGroup| |Group&|
+                |InfiniteCyclicGroup| |LieExponentials| |MoebiusTransform|)
+(|Character| |CyclicGroup| |DoubleFloat| |Float| |Hashable&|
+             |InfiniteCyclicGroup| |Integer| |IntegerLocalizedAtPrime|
+             |NonNegativeInteger| |OrderedVariableList| |PositiveInteger|
+             |SingleInteger| |SingletonAsOrderedSet| |SmallOrdinal| |Symbol|
+             |XHashTable|)
+(|HomogeneousAggregate&| |ThreeDimensionalMatrix|)
+(|HomogeneousDistributedMultivariatePolynomial|)
+(|HyperbolicFunctionCategory&|)
+(|I16Matrix|)
+(|I32Matrix|)
+(|I8Matrix|)
+(|IndexedAggregate&| |SortPackage| |TwoDimensionalArrayCategory|
+                     |TwoDimensionalArrayCategory&|)
+(|IndexedDirectProductObject| |IndexedExponents|)
+(|DifferentialSparseMultivariatePolynomial| |JetBundlePolynomial| |JetGroebner|
+                                            |MultivariatePolynomial|
+                                            |NewSparseMultivariatePolynomial|
+                                            |OrderlyDifferentialPolynomial|
+                                            |ParallelIntegrationTools|
+                                            |PartialDifferentialOperator|
+                                            |Polynomial| |RegularChain|
+                                            |SequentialDifferentialPolynomial|
+                                            |SparseMultivariatePolynomial|
+                                            |SparseMultivariatePolynomialExpressions|
+                                            |SparseMultivariateSkewPolynomial|
+                                            |SparseMultivariateTaylorSeries|)
+(|IndexedTwoDimensionalArray|)
+(|IndexedMatrix|)
+(|InnerEvalable&|)
+(|InnerFiniteField|)
+(|AlgebraicNumber| |Boolean| |DoubleFloat| |ExpressionSolve|
+                   |ExpressionSpaceODESolver| |Float|
+                   |MakeBinaryCompiledFunction| |MakeFloatCompiledFunction|
+                   |MakeFunction| |MakeUnaryCompiledFunction|
+                   |NonNegativeInteger| |NonNegativeRational|
+                   |OrderedVariableList| |OutputForm| |PiDomain|
+                   |PlotFunctions1| |PositiveInteger| |RecurrenceOperator|
+                   |Symbol| |TopLevelDrawFunctions|)
+(|AlgebraicIntegrate| |AlgebraicIntegrate2| |AlgebraicNumber|
+                      |BalancedPAdicInteger| |BalancedPAdicRational|
+                      |BinaryExpansion| |BoundIntegerRoots| |BrillhartTests|
+                      |CartesianTensor| |CartesianTensorFunctions2|
+                      |ComplexRootPackage| |ComplexTrigonometricManipulations|
+                      |ConstantLODE| |DecimalExpansion|
+                      |DefiniteIntegrationTools| |DenominatorIntegration|
+                      |ElementaryFunctionDefiniteIntegration|
+                      |ElementaryFunctionLODESolver|
+                      |ElementaryFunctionODESolver| |ElementaryFunctionSign|
+                      |ElementaryFunctionStructurePackage|
+                      |ElementaryFunctionsGeneralizedUnivariatePowerSeries|
+                      |ElementaryFunctionsUnivariateLaurentSeries|
+                      |ElementaryFunctionsUnivariatePuiseuxSeries|
+                      |ElementaryIntegration| |ElementaryRischDEX|
+                      |ElementaryRischDEX2|
+                      |EllipticFunctionsUnivariateTaylorSeries|
+                      |EvaluateCycleIndicators| |ExponentialExpansion|
+                      |ExpressionToUnivariatePowerSeries| |FourierSeries|
+                      |FunctionSpaceComplexIntegration|
+                      |FunctionSpaceComplexIntegrationAux|
+                      |FunctionSpaceIntegration| |FunctionSpaceRationalRoots|
+                      |FunctionSpaceReduce| |FunctionSpaceSum|
+                      |FunctionSpaceToExponentialExpansion|
+                      |FunctionSpaceToUnivariatePowerSeries|
+                      |FunctionSpaceToUnivariatePowerSeries2|
+                      |GaloisGroupFactorizer| |GaloisGroupFactorizerSeparate|
+                      |GenerateEllipticIntegrals|
+                      |GenerateUnivariatePowerSeries| |GenusZeroIntegration|
+                      |GosperSummationMethod| |Guess| |GuessExpBin|
+                      |GuessFinite| |GuessFiniteFunctions| |HeuGcd|
+                      |HexadecimalExpansion| |I16Matrix| |I16Vector|
+                      |I32Matrix| |I32Vector| |I8Matrix| |I8Vector|
+                      |IndexedBits| |IndexedFlexibleArray| |IndexedList|
+                      |IndexedMatrix| |IndexedOneDimensionalArray|
+                      |IndexedString| |IndexedTwoDimensionalArray|
+                      |IndexedVector| |InnerIndexedTwoDimensionalArray|
+                      |InnerPAdicInteger| |InnerPrimeField|
+                      |InnerSparseUnivariatePowerSeries| |InputForm| |Integer|
+                      |IntegerLinearDependence| |IntegerLocalizedAtPrime|
+                      |IntegerMod| |IntegerRetractions| |IntegrateSolutions|
+                      |IntegrationResult| |IntegrationResultRFToFunction|
+                      |IntegrationResultToFunction| |InverseLaplaceTransform|
+                      |JetBundleExpression| |JetBundleXExpression| |Kovacic|
+                      |LaplaceTransform| |LieExponentials|
+                      |LinearOrdinaryDifferentialOperatorFactorizer|
+                      |LinearOrdinaryDifferentialOperatorFactorizer2|
+                      |MachineFloat| |ModularAlgebraicGcd|
+                      |ModularAlgebraicGcdTools2| |ModularAlgebraicGcdTools3|
+                      |ModularAlgebraicGcdTools4| |ModularEvaluation1|
+                      |ModularEvaluation2| |ModularFactorizationTools1|
+                      |ModularFactorizationTools3|
+                      |NonLinearFirstOrderODESolver| |NumberFieldIntegralBasis|
+                      |ODEIntegration| |OrderedExpression|
+                      |OrderedVariableList| |PAdicInteger|
+                      |PAdicIntegerCategory| |PAdicRational|
+                      |PAdicRationalConstructor| |ParametricIntegration|
+                      |ParametricRischDE| |Partition| |PatternMatchIntegration|
+                      |PiDomain| |PointsOfFiniteOrder|
+                      |PointsOfFiniteOrderRational| |PointsOfFiniteOrderTools|
+                      |PolynomialRationalRoots| |PowerSeriesLimitPackage|
+                      |PrimeField| |PrimitiveRatDE| |PrimitiveRatRicDE|
+                      |PureAlgebraicIntegration| |PureAlgebraicLODE|
+                      |RadixExpansion| |RationalFactorize|
+                      |RationalFunctionDefiniteIntegration|
+                      |RationalFunctionFactor| |RationalFunctionIntegration|
+                      |RationalFunctionSum| |RationalIntegration|
+                      |RationalLODE| |RationalRetractions| |RationalRicDE|
+                      |RealNormalizationUtilities| |RealZeroPackage|
+                      |RealZeroPackageQ| |RecurrenceOperator| |RootFSSplit|
+                      |RootUtilities| |SExpression| |STransformPackage|
+                      |SortPackage| |SortedExponentVector|
+                      |SpecialFunctionUnivariateTaylorSeries|
+                      |StreamExponentialSeriesTranscendentalFunctions|
+                      |StreamTranscendentalFunctions|
+                      |StreamTranscendentalFunctionsNonCommutative| |Symbol|
+                      |TaylorSeriesExpansion| |TaylorSeriesExpansion&|
+                      |TaylorSeriesExpansionGeneralized|
+                      |TaylorSeriesExpansionLaurent|
+                      |TaylorSeriesExpansionPuiseux|
+                      |TaylorSeriesExpansionTaylor|
+                      |TopLevelDrawFunctionsForAlgebraicCurves|
+                      |TransSolvePackage| |TrigonometricManipulations|
+                      |TwoDimensionalArrayCategory|
+                      |TwoDimensionalArrayCategory&| |U16Matrix| |U16Vector|
+                      |U32Matrix| |U32Vector| |U8Matrix| |U8Vector|
+                      |UnivariatePuiseuxSeriesWithExponentialSingularity|
+                      |UnivariateTaylorSeriesODESolver| |XExponentialPackage|)
+(|ComplexIntegerSolveLinearPolynomialEquation| |Integer|
+                                               |IntegerCombinatoricFunctions|
+                                               |IntegerFactorizationPackage|
+                                               |IntegerNumberSystem&|
+                                               |IntegerPrimesPackage|
+                                               |IntegerRoots| |MachineInteger|
+                                               |PatternMatchIntegerNumberSystem|
+                                               |RomanNumeral| |SingleInteger|)
+(|AlgebraPackage| |AlgebraicFunction| |AlgebraicIntegrate2|
+                  |AlgebraicIntegration| |AlgebraicManipulations|
+                  |AlgebraicallyClosedFunctionSpace|
+                  |AlgebraicallyClosedFunctionSpace&| |AssociatedEquations|
+                  |CharacteristicPolynomial3| |CombinatorialFunction|
+                  |CommonDenominator| |ComplexTrigonometricManipulations|
+                  |ConstantLinearDependence| |DegreeReductionPackage|
+                  |DrawNumericHack| |ElementaryFunction|
+                  |ElementaryFunctionSign| |ElementaryFunctionStructurePackage|
+                  |ExpressionLinearSolve| |ExpressionSolve|
+                  |ExpressionSpaceODESolver| |Factored|
+                  |FactoredFunctionUtilities| |FactoredFunctions|
+                  |FactoredFunctions2| |Fraction| |FractionFreeFastGaussian|
+                  |FractionFreeFastGaussianFractions| |FractionFunctions2|
+                  |FunctionSpacePrimitiveElement| |FunctionSpaceRationalRoots|
+                  |FunctionSpaceReduce| |FunctionSpaceSum|
+                  |FunctionalSpecialFunction| |GeneralTriangularSet|
+                  |GeneralizedMultivariateFactorize|
+                  |GenerateUnivariatePowerSeries| |GosperSummationMethod|
+                  |Guess| |GuessExpBin| |InnerCommonDenominator|
+                  |InnerMatrixQuotientFieldFunctions| |InnerPolySum|
+                  |InnerTrigonometricManipulations| |LaurentPolynomial|
+                  |LinearDependence| |LinearSystemMatrixPackage2|
+                  |LinearSystemPolynomialPackage| |LiouvillianFunction|
+                  |MPolyCatRationalFunctionFactorizer|
+                  |MatrixCommonDenominator| |MultipleMap| |MultivariateLifting|
+                  |NPCoef| |NewtonInterpolation| |NonLinearSolvePackage|
+                  |PatternMatchFunctionSpace|
+                  |PatternMatchQuotientFieldCategory| |PiCoercions|
+                  |PointsOfFiniteOrder| |PolynomialCommonDenominator|
+                  |PolynomialRationalRoots| |PolynomialRoots|
+                  |PolynomialSetUtilitiesPackage|
+                  |PrecomputedAssociatedEquations| |PseudoRemainderSequence|
+                  |QuotientFieldCategory| |QuotientFieldCategory&|
+                  |QuotientFieldCategoryFunctions2| |RationalFunction|
+                  |RationalFunctionIntegration| |RationalFunctionSum|
+                  |RecurrenceOperator| |RetractSolvePackage| |RootFSSplit|
+                  |StructuralConstantsPackage| |SturmHabichtPackage|
+                  |SubResultantPackage| |SystemSolvePackage|
+                  |TopLevelDrawFunctionsForAlgebraicCurves|
+                  |TransSolvePackageService| |TriangularMatrixOperations|
+                  |TriangularSetCategory| |TriangularSetCategory&|
+                  |TrigonometricManipulationsAux|
+                  |UnivariatePolynomialCommonDenominator|
+                  |UnivariatePolynomialDecompositionPackage|
+                  |UnivariatePolynomialDivisionPackage|
+                  |UnivariatePolynomialSquareFree|
+                  |UnivariatePuiseuxSeriesWithExponentialSingularity|
+                  |WuWenTsunTriangularSet|)
+(|Interval|)
+(|JetBundleBaseFunctionCategory&| |JetBundleLinearFunction|
+                                  |JetBundleXExpression|)
+(|CartanKuranishi| |DistributedJetBundlePolynomial| |IndexedJetBundle|
+                   |JetBundle| |JetBundleBaseFunctionCategory|
+                   |JetBundleBaseFunctionCategory&| |JetBundleCategory&|
+                   |JetBundleExpression| |JetBundleFunctionCategory|
+                   |JetBundleFunctionCategory&| |JetBundleLinearFunction|
+                   |JetBundlePolynomial| |JetBundleSymAna|
+                   |JetBundleXExpression| |JetCoordinateTransformation|
+                   |JetDifferential| |JetDifferentialEquation| |JetGroebner|
+                   |JetLazyFunction| |JetVectorField| |SymmetryAnalysis|)
+(|JetCoordinateTransformation|)
+(|CartanKuranishi| |JetBundleExpression| |JetBundleFunctionCategory&|
+                   |JetBundleLinearFunction| |JetBundlePolynomial|
+                   |JetBundleXExpression| |JetDifferential|
+                   |JetDifferentialEquation| |JetGroebner| |JetLazyFunction|
+                   |JetVectorField|)
+(|PatternMatchFunctionSpace| |PatternMatchKernel|)
+(|ExpressionSpace2| |ExpressionSpace2&| |FunctionSpace2| |FunctionSpace2&|
+                    |Kernel|)
+(|KeyedDictionary&|)
+(|BitStreamFrame| |FiniteLattice| |SubsetLattice|)
+(|CyclicStreamTools| |LazyStreamAggregate&| |Stream|)
+(|AntiSymm| |DeRhamComplex| |LeftAlgebra&|)
+(|AlgebraGivenByStructuralConstants| |ApplyUnivariateSkewPolynomial|
+                                     |DirectProductMatrixModule|
+                                     |DirectProductModule|
+                                     |GenericNonAssociativeAlgebra|
+                                     |LODOConvertions|
+                                     |LinearOrdinaryDifferentialOperator2|
+                                     |LinearOrdinaryDifferentialOperator3|
+                                     |LinearOrdinaryDifferentialOperator3Aux|
+                                     |ModMonic| |ModuleOperator|
+                                     |StreamTaylorSeriesOperations2|
+                                     |StreamTaylorSeriesOperationsCategory|)
+(|NGroebnerPackage|)
+(|LieAlgebra&|)
+(|FiniteLinearAggregateFunctions2| |InnerCommonDenominator| |LinearAggregate&|)
+(|AssociatedEquations| |ConstantLODE| |ElementaryFunctionLODESolver|
+                       |LinearOrdinaryDifferentialOperator|
+                       |LinearOrdinaryDifferentialOperator1|
+                       |LinearOrdinaryDifferentialOperator2|
+                       |LinearOrdinaryDifferentialOperator3|
+                       |LinearOrdinaryDifferentialOperatorCategory&|
+                       |LinearOrdinaryDifferentialOperatorsOps| |ODETools|
+                       |PrecomputedAssociatedEquations| |PrimitiveRatDE|
+                       |PrimitiveRatRicDE| |ReduceLODE| |ReductionOfOrder|
+                       |SystemODESolver| |UTSodetools|)
+(|AlgebraicNumber| |ConstantLODE| |DefiniteIntegrationTools|
+                   |DenominatorIntegration|
+                   |ElementaryFunctionDefiniteIntegration|
+                   |ElementaryFunctionLODESolver| |ElementaryFunctionODESolver|
+                   |ElementaryFunctionSign|
+                   |ElementaryFunctionStructurePackage| |ElementaryIntegration|
+                   |ElementaryRischDEX| |ElementaryRischDEX2|
+                   |ExponentialExpansion| |ExpressionToUnivariatePowerSeries|
+                   |FunctionSpaceComplexIntegration|
+                   |FunctionSpaceComplexIntegrationAux|
+                   |FunctionSpaceIntegration| |FunctionSpaceRationalRoots|
+                   |FunctionSpaceSum| |FunctionSpaceToExponentialExpansion|
+                   |FunctionSpaceToUnivariatePowerSeries|
+                   |FunctionSpaceToUnivariatePowerSeries2|
+                   |GenerateUnivariatePowerSeries| |GenusZeroIntegration|
+                   |Integer| |IntegerLinearDependence|
+                   |IntegrationResultRFToFunction|
+                   |IntegrationResultToFunction| |InverseLaplaceTransform|
+                   |LaplaceTransform| |LinearDependence|
+                   |NonLinearFirstOrderODESolver| |ODEIntegration|
+                   |ParametricIntegration| |ParametricRischDE|
+                   |PatternMatchIntegration| |PolynomialRationalRoots|
+                   |PowerSeriesLimitPackage| |PureAlgebraicIntegration|
+                   |RationalFunctionDefiniteIntegration|
+                   |RealNormalizationUtilities| |RootUtilities|
+                   |TransSolvePackage| |TrigonometricManipulations|
+                   |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|DenominatorIntegration| |ElementaryRischDEX| |JetBundleExpression|
+                          |JetBundleXExpression|)
+(|AlgebraGivenByStructuralConstants| |AntiSymm| |CharacterClass|
+                                     |DeRhamComplex|
+                                     |DistributedJetBundlePolynomial|
+                                     |DistributedMultivariatePolynomial|
+                                     |ErrorIndicator| |FGLMIfCanPackage|
+                                     |FiniteFieldNormalBasisExtensionByPolynomial|
+                                     |FortranExpression| |FortranProgram|
+                                     |GeneralDistributedMultivariatePolynomial|
+                                     |GeneralModulePolynomial|
+                                     |GenericNonAssociativeAlgebra|
+                                     |GroebnerSolve|
+                                     |HomogeneousDistributedMultivariatePolynomial|
+                                     |IdealDecompositionPackage| |JetBundle|
+                                     |JetBundleSymAna| |JetGroebner|
+                                     |LexTriangularPackage|
+                                     |LinGroebnerPackage|
+                                     |ModularAlgebraicGcdTools3|
+                                     |ModularAlgebraicGcdTools4|
+                                     |ModularFactorizationTools1|
+                                     |MultivariatePolynomial|
+                                     |OrderedVariableList|
+                                     |OrdinaryWeightedPolynomials| |Partition|
+                                     |PolToPol| |QuasiAlgebraicSet2|
+                                     |RationalUnivariateRepresentationPackage|
+                                     |RegularChain| |ResidueRing|
+                                     |SubsetLattice| |SymmetryAnalysis|
+                                     |WeightedPolynomials|
+                                     |ZeroDimensionalSolvePackage|)
+(|DataList| |IndexedList| |List| |ListAggregate&| |PatternMatchListAggregate|
+            |PatternMatchListResult|)
+(|Boolean| |Logic&| |SingleInteger|)
+(|LiePolynomial| |PoincareBirkhoffWittLyndonBasis|)
+(|MachineComplex|)
+(|Magma&|)
+(|MagmaWithUnit&|)
+(|AlgebraGivenByStructuralConstants| |GenericNonAssociativeAlgebra|
+                                     |RectangularMatrix| |SquareMatrix|)
+(|BezoutMatrix| |ComplexDoubleFloatMatrix| |DenavitHartenbergMatrix|
+                |DoubleFloatMatrix| |I16Matrix| |I32Matrix| |I8Matrix|
+                |IndexedMatrix| |InnerMatrixLinearAlgebraFunctions|
+                |InnerMatrixQuotientFieldFunctions| |LinearSystemMatrixPackage|
+                |Matrix| |MatrixCategory&| |MatrixCategoryFunctions2|
+                |MatrixLinearAlgebraFunctions| |SmithNormalForm|
+                |TriangularMatrixOperations| |U16Matrix| |U32Matrix| |U8Matrix|)
+(|MaybeSkewPolynomialCategory&|)
+(|ModularAlgebraicGcd| |ModularAlgebraicGcd2| |ModularAlgebraicGcdTools2|
+                       |ModularAlgebraicGcdTools3| |ModularAlgebraicGcdTools4|)
+(|ModularAlgebraicGcd2| |ModularEvaluation1| |ModularEvaluation2|)
+(|ModularFactorizationGeneral| |ModularFactorizationTools1|
+                               |ModularFactorizationTools3|)
+(|Bialgebra| |Coalgebra| |DistributionPolynomialPackage| |FreeModuleFunctions2|
+             |GeneralModulePolynomial| |HopfAlgebra| |IntegrationResult|
+             |JetBundleLinearFunction| |JetDifferential| |JetVectorField|
+             |LieExponentials| |Localize| |Module&| |TensorPowerCategory|
+             |TensorPowerCategory&| |TensorPowerFunctions2|
+             |TensorProductCategory| |TensorProductProperty|
+             |XExponentialPackage|)
+(|CharacteristicPolynomialInMonogenicalAlgebra| |GenerateEllipticIntegrals|
+                                                |InnerAlgFactor|
+                                                |MonogenicAlgebra&|
+                                                |NormInMonogenicAlgebra|
+                                                |PAdicWildFunctionFieldIntegralBasis|
+                                                |ReduceLODE|
+                                                |SimpleAlgebraicExtension|)
+(|CardinalNumber| |DiscreteLogarithmPackage| |FractionalIdealAsModule|
+                  |FreeMonoid| |IncrementingMaps| |MonoidRing|
+                  |MonoidRingCategory| |MonoidRingFunctions2|)
+(|MonoidRing|)
+(|ListMultiDictionary|)
+(|Multiset|)
+(|PartialDifferentialOperator| |SparseMultivariateSkewPolynomial|)
+(|MultivariateTaylorSeriesCategory&| |SparseMultivariateTaylorSeries|
+                                     |TaylorSeries|)
+(|RegularChain|)
+(|AssociatedJordanAlgebra| |AssociatedLieAlgebra| |FreeNilpotentLie|
+                           |NonAssociativeAlgebra&|)
+(|NonAssociativeRing&|)
+(|NonAssociativeRng&|)
+(|NonAssociativeSemiRng&|)
+(|CardinalNumber| |CartesianTensor| |CartesianTensorFunctions2| |DirectProduct|
+                  |DirectProductCategory| |DirectProductCategory&|
+                  |DirectProductFunctions2| |DirectProductModule|
+                  |DistributedJetBundlePolynomial|
+                  |DistributedMultivariatePolynomial|
+                  |FractionFreeFastGaussian|
+                  |FractionFreeFastGaussianFractions| |FreeNilpotentLie|
+                  |GeneralDistributedMultivariatePolynomial|
+                  |GeneralModulePolynomial| |HomogeneousDirectProduct|
+                  |HomogeneousDistributedMultivariatePolynomial|
+                  |IndexedExponents| |InnerModularGcd| |JetGroebner|
+                  |LODOConvertions| |LinearOrdinaryDifferentialOperator3|
+                  |LinearOrdinaryDifferentialOperator3Aux|
+                  |ModularFactorizationTools1| |OrderedDirectProduct|
+                  |OrderingFunctions| |OrdinaryWeightedPolynomials|
+                  |RadicalFunctionField| |RectangularMatrix|
+                  |RectangularMatrixCategory| |RectangularMatrixCategory&|
+                  |RectangularMatrixCategoryFunctions2| |SmallOrdinal|
+                  |SparseMultivariatePolynomialExpressions|
+                  |SplitHomogeneousDirectProduct| |SquareMatrix|
+                  |SquareMatrixCategory| |SquareMatrixCategory&|
+                  |TaylorSeriesExpansionTaylor| |TensorPower|
+                  |TensorPowerCategory| |TensorPowerCategory&|
+                  |TensorPowerFunctions2| |WeightedPolynomials|)
+(|Octonion| |OctonionCategory&| |OctonionCategoryFunctions2|)
+(|TwoDimensionalArray|)
+(|FlexibleArray| |I16Vector| |I32Vector| |I8Vector| |IndexedFlexibleArray|
+                 |IndexedOneDimensionalArray| |OneDimensionalArray|
+                 |OneDimensionalArrayAggregate&| |PrimitiveArray|
+                 |SortedExponentVector| |U16Vector| |U32Vector| |U8Vector|)
+(|DoubleFloat| |ExpressionToOpenMath| |Float| |Integer| |OpenMath&|
+               |SingleInteger| |Symbol|)
+(|OrderedAbelianGroup&|)
+(|AbelianMonoidRing| |AbelianMonoidRing&|
+                     |ElementaryFunctionsGeneralizedUnivariatePowerSeries|
+                     |ExponentialOfUnivariatePuiseuxSeries|
+                     |FiniteAbelianMonoidRing| |FiniteAbelianMonoidRing&|
+                     |FiniteAbelianMonoidRingFunctions2|
+                     |GeneralizedUnivariatePowerSeries|
+                     |HomogeneousDirectProduct| |OrderedDirectProduct|
+                     |OrderingFunctions| |PolynomialRing| |PowerSeriesCategory|
+                     |PowerSeriesCategory&| |SmallOrdinal|
+                     |SplitHomogeneousDirectProduct| |TaylorSeriesExpansion|
+                     |TaylorSeriesExpansion&|
+                     |TaylorSeriesExpansionGeneralized|
+                     |UnivariatePowerSeriesCategory|
+                     |UnivariatePowerSeriesCategory&|
+                     |UnivariateSeriesWithRationalExponents| |WeightedGraph|)
+(|AlgebraicMultFact| |DifferentialPolynomialCategory|
+                     |DifferentialPolynomialCategory&|
+                     |EuclideanGroebnerBasisPackage|
+                     |ExtendedPolynomialReduction| |FactoringUtilities|
+                     |GeneralPolynomialGcdPackage| |GeneralPolynomialSet|
+                     |GeneralTriangularSet| |GeneralizedMultivariateFactorize|
+                     |GosperSummationMethod| |GroebnerFactorizationPackage|
+                     |GroebnerInternalPackage| |GroebnerPackage|
+                     |IndexedExponents| |InnerMultFact| |InnerPolySum|
+                     |InternalRationalUnivariateRepresentationPackage|
+                     |LazardSetSolvingPackage| |LeadingCoefDetermination|
+                     |LinearSystemPolynomialPackage| |MPolyCatFunctions2|
+                     |MPolyCatFunctions3| |MPolyCatPolyFactorizer|
+                     |MPolyCatRationalFunctionFactorizer| |MRationalFactorize|
+                     |MaybeSkewPolynomialCategory|
+                     |MaybeSkewPolynomialCategory&| |MultFiniteFactorize|
+                     |MultivariateFactorize| |MultivariateLifting|
+                     |MultivariateSkewPolynomialCategory|
+                     |MultivariateSquareFree| |NGroebnerPackage| |NPCoef|
+                     |NonNegativeInteger| |NonNegativeRational|
+                     |NormalizationPackage| |NormalizedTriangularSetCategory|
+                     |ParametricLinearEquations|
+                     |PatternMatchPolynomialCategory| |PolynomialCategory|
+                     |PolynomialCategory&| |PolynomialCategoryLifting|
+                     |PolynomialCategoryQuotientFunctions|
+                     |PolynomialCommonDenominator|
+                     |PolynomialFactorizationByRecursion|
+                     |PolynomialGcdPackage| |PolynomialIdeal| |PolynomialRoots|
+                     |PolynomialSetCategory| |PolynomialSetCategory&|
+                     |PolynomialSetUtilitiesPackage| |PolynomialSquareFree|
+                     |PushVariables| |QuasiAlgebraicSet|
+                     |QuasiComponentPackage| |RecursivePolynomialCategory|
+                     |RecursivePolynomialCategory&|
+                     |RegularSetDecompositionPackage| |RegularTriangularSet|
+                     |RegularTriangularSetCategory|
+                     |RegularTriangularSetCategory&|
+                     |RegularTriangularSetGcdPackage| |ResidueRing|
+                     |SolvableSkewPolynomialCategory|
+                     |SquareFreeNormalizedTriangularSetCategory|
+                     |SquareFreeQuasiComponentPackage|
+                     |SquareFreeRegularSetDecompositionPackage|
+                     |SquareFreeRegularTriangularSet|
+                     |SquareFreeRegularTriangularSetCategory|
+                     |SquareFreeRegularTriangularSetGcdPackage|
+                     |TriangularSetCategory| |TriangularSetCategory&|
+                     |WeightedPolynomials| |WuWenTsunTriangularSet|)
+(|AInterval| |AIntervalCategory| |AIntervalCategory&| |PositiveInteger|)
+(|Partition|)
+(|Character| |OrderedVariableList|)
+(|InfiniteCyclicGroup| |PositiveInteger| |XPolynomialRing|)
+(|ComplexRootFindingPackage| |ComplexRootPackage| |FloatingComplexPackage|
+                             |FloatingRealPackage|
+                             |FunctionSpaceToUnivariatePowerSeries|
+                             |FunctionSpaceToUnivariatePowerSeries2|
+                             |InnerNumericEigenPackage|
+                             |InnerNumericFloatSolvePackage|
+                             |IntegerLocalizedAtPrime|
+                             |NumericComplexEigenPackage|
+                             |NumericRealEigenPackage| |OrderedExpression|
+                             |RealClosure| |RealRootCharacterizationCategory|
+                             |RealRootCharacterizationCategory&|
+                             |RightOpenIntervalRootCharacterization|
+                             |SegmentExpansionCategory| |SturmHabichtPackage|
+                             |ZeroDimensionalSolvePackage|)
+(|AlgebraicMultFact| |BasicOperator| |BinarySearchTree| |BinaryTournament|
+                     |Boolean| |CardinalNumber| |DataList| |Database|
+                     |DifferentialPolynomialCategory|
+                     |DifferentialPolynomialCategory&|
+                     |DifferentialSparseMultivariatePolynomial|
+                     |DifferentialVariableCategory|
+                     |DifferentialVariableCategory&| |DrawNumericHack|
+                     |EuclideanGroebnerBasisPackage| |ExpressionToOpenMath|
+                     |ExtAlgBasis| |FactoringUtilities| |FourierComponent|
+                     |FourierSeries| |FreeDivisionAlgebra| |FreeLieAlgebra|
+                     |FreeMagma| |GeneralModulePolynomial|
+                     |GeneralPolynomialGcdPackage| |GeneralPolynomialSet|
+                     |GeneralTriangularSet| |GeneralizedMultivariateFactorize|
+                     |GosperSummationMethod| |GroebnerFactorizationPackage|
+                     |Heap| |IndexCard| |IndexedExponents| |InnerMultFact|
+                     |InnerPolySum|
+                     |InternalRationalUnivariateRepresentationPackage|
+                     |LazardSetSolvingPackage| |LeadingCoefDetermination|
+                     |LieExponentials| |LiePolynomial|
+                     |LinearSystemPolynomialPackage| |LyndonWord|
+                     |MPolyCatFunctions2| |MPolyCatFunctions3|
+                     |MPolyCatPolyFactorizer|
+                     |MPolyCatRationalFunctionFactorizer| |MRationalFactorize|
+                     |MaybeSkewPolynomialCategory|
+                     |MaybeSkewPolynomialCategory&| |MergeThing|
+                     |ModuleMonomial| |MultFiniteFactorize|
+                     |MultivariateFactorize| |MultivariateLifting|
+                     |MultivariateSkewPolynomialCategory|
+                     |MultivariateSquareFree|
+                     |MultivariateTaylorSeriesCategory|
+                     |MultivariateTaylorSeriesCategory&| |NPCoef|
+                     |NewSparseMultivariatePolynomial| |NormalizationPackage|
+                     |NormalizedTriangularSetCategory| |OrdSetInts|
+                     |OrderedMultisetAggregate| |OrderedSet&|
+                     |OrderlyDifferentialVariable| |ParallelIntegrationTools|
+                     |ParametricLinearEquations| |PartialDifferentialOperator|
+                     |PartialDifferentialOperatorHelper|
+                     |PatternMatchPolynomialCategory|
+                     |PoincareBirkhoffWittLyndonBasis| |PolynomialCategory|
+                     |PolynomialCategory&| |PolynomialCategoryLifting|
+                     |PolynomialCategoryQuotientFunctions|
+                     |PolynomialCommonDenominator|
+                     |PolynomialFactorizationByRecursion|
+                     |PolynomialGcdPackage| |PolynomialIdeal| |PolynomialRoots|
+                     |PolynomialSetCategory| |PolynomialSetCategory&|
+                     |PolynomialSetUtilitiesPackage| |PolynomialSquareFree|
+                     |PowerSeriesCategory| |PowerSeriesCategory&|
+                     |PriorityQueueAggregate| |PushVariables|
+                     |QuasiAlgebraicSet| |QuasiComponentPackage|
+                     |RecursivePolynomialCategory|
+                     |RecursivePolynomialCategory&|
+                     |RegularSetDecompositionPackage| |RegularTriangularSet|
+                     |RegularTriangularSetCategory|
+                     |RegularTriangularSetCategory&|
+                     |RegularTriangularSetGcdPackage| |ResidueRing|
+                     |SequentialDifferentialVariable| |SimpleFortranProgram|
+                     |SingletonAsOrderedSet| |SparseEchelonMatrix|
+                     |SparseMultivariatePolynomial|
+                     |SparseMultivariateSkewPolynomial|
+                     |SparseMultivariateTaylorSeries|
+                     |SparsePolynomialCoercionHelpers|
+                     |SquareFreeNormalizedTriangularSetCategory|
+                     |SquareFreeQuasiComponentPackage|
+                     |SquareFreeRegularSetDecompositionPackage|
+                     |SquareFreeRegularTriangularSet|
+                     |SquareFreeRegularTriangularSetCategory|
+                     |SquareFreeRegularTriangularSetGcdPackage| |Symbol|
+                     |TableauxBumpers| |TaylorSeriesExpansion|
+                     |TaylorSeriesExpansion&| |TensorPower|
+                     |TensorPowerFunctions2| |TensorProduct|
+                     |TriangularSetCategory| |TriangularSetCategory&|
+                     |WeightedPolynomials| |WuWenTsunTriangularSet|
+                     |XDistributedPolynomial| |XDistributedPolynomialFunctions|
+                     |XExponentialPackage| |XFreeAlgebra| |XPBWPolynomial|
+                     |XPolynomialFactor| |XPolynomialsCat|
+                     |XRecursivePolynomial|)
+(|AlgebraGivenByStructuralConstants| |DistributedMultivariatePolynomial|
+                                     |GeneralDistributedMultivariatePolynomial|
+                                     |GeneralModulePolynomial|
+                                     |HomogeneousDistributedMultivariatePolynomial|
+                                     |MultivariatePolynomial| |RegularChain|)
+(|OrderlyDifferentialPolynomial|)
+(|Cell| |ErrorIndicator| |FakePolynomial| |Formatter| |FortranScalarType|
+        |InfiniteTuple| |Lambda| |OutputBox| |QueryEquation| |SimpleCell|
+        |SparseEchelonMatrix| |Switch| |SymbolTable| |Tableau| |TheSymbolTable|
+        |VectorSpaceBasis|)
+(|FormattedOutput| |Formatter| |FortranFormat|)
+(|PAdicRational|)
+(|BalancedPAdicInteger| |InnerPAdicInteger| |PAdicInteger|
+                        |PAdicRationalConstructor|)
+(|FortranExpression| |Guess| |GuessExpBin| |MultiVariableCalculusFunctions|
+                     |OrdinaryDifferentialRing| |PartialDifferentialOperator|
+                     |PartialDifferentialOperatorHelper|
+                     |PartialDifferentialRing&| |RecurrenceOperator|)
+(|FiniteMoebiusFunction| |GeneralizedFiniteMoebiusFunction| |PartialOrder&|)
+(|ElementaryFunctionsGeneralizedUnivariatePowerSeries|
+ |ElementaryFunctionsUnivariateLaurentSeries|
+ |ElementaryFunctionsUnivariatePuiseuxSeries|
+ |FunctionSpaceToUnivariatePowerSeries| |FunctionSpaceToUnivariatePowerSeries2|)
+(|SymmetricPolynomial|)
+(|ApplyRules| |ComplexPattern| |OrderedVariableList| |PatternMatch|
+              |PatternMatchFunctionSpace| |PatternMatchKernel|
+              |PatternMatchPolynomialCategory|
+              |PatternMatchQuotientFieldCategory| |PatternMatchTools|
+              |RewriteRule| |Ruleset| |Symbol|)
+(|ApplyRules| |ComplexPatternMatch| |PatternMatch| |PatternMatchFunctionSpace|
+              |PatternMatchKernel| |PatternMatchListAggregate|
+              |PatternMatchPolynomialCategory| |PatternMatchPushDown|
+              |PatternMatchQuotientFieldCategory| |RewriteRule| |Ruleset|
+              |Symbol|)
+(|Permutation|)
+(|PlaneAlgebraicCurvePlot| |Plot|)
+(|NumericTubePlot| |Plot3D| |TubePlot|)
+(|XPBWPolynomial|)
+(|Point|)
+(|GenericNonAssociativeAlgebra| |MPolyCatPolyFactorizer|
+                                |MPolyCatRationalFunctionFactorizer|
+                                |ModularAlgebraicGcd|
+                                |ModularAlgebraicGcdTools2|
+                                |ModularAlgebraicGcdTools3|
+                                |ModularAlgebraicGcdTools4|
+                                |ModularEvaluation1| |ModularEvaluation2|
+                                |PushVariables| |RationalFunctionFactor|)
+(|AlgebraicMultFact| |DistributedJetBundlePolynomial|
+                     |DistributedMultivariatePolynomial|
+                     |EuclideanGroebnerBasisPackage| |FactoringUtilities|
+                     |GeneralDistributedMultivariatePolynomial|
+                     |GeneralModulePolynomial| |GeneralPolynomialGcdPackage|
+                     |GeneralizedMultivariateFactorize| |GosperSummationMethod|
+                     |GroebnerFactorizationPackage|
+                     |HomogeneousDistributedMultivariatePolynomial|
+                     |InnerMultFact| |InnerPolySum| |JetBundlePolynomial|
+                     |JetGroebner| |LeadingCoefDetermination|
+                     |LinearSystemPolynomialPackage| |MPolyCatFunctions2|
+                     |MPolyCatFunctions3| |MPolyCatPolyFactorizer|
+                     |MPolyCatRationalFunctionFactorizer| |MRationalFactorize|
+                     |MultFiniteFactorize| |MultivariateFactorize|
+                     |MultivariateLifting| |MultivariatePolynomial|
+                     |MultivariateSquareFree| |NPCoef|
+                     |ParallelIntegrationTools| |ParametricLinearEquations|
+                     |PatternMatchPolynomialCategory| |Polynomial|
+                     |PolynomialCategory&| |PolynomialCategoryLifting|
+                     |PolynomialCategoryQuotientFunctions|
+                     |PolynomialCommonDenominator|
+                     |PolynomialFactorizationByRecursion|
+                     |PolynomialGcdPackage| |PolynomialIdeal| |PolynomialRoots|
+                     |PolynomialSquareFree| |PushVariables| |QuasiAlgebraicSet|
+                     |ResidueRing| |SparseMultivariatePolynomial|
+                     |SparseMultivariatePolynomialExpressions|
+                     |SparseMultivariateTaylorSeries| |WeightedPolynomials|)
+(|AlgebraicNumber| |ConstantLODE| |ElementaryFunctionDefiniteIntegration|
+                   |ElementaryFunctionLODESolver| |ElementaryFunctionODESolver|
+                   |ElementaryIntegration| |ElementaryRischDEX|
+                   |ElementaryRischDEX2| |FunctionSpaceComplexIntegration|
+                   |FunctionSpaceComplexIntegrationAux|
+                   |FunctionSpaceIntegration| |GeneralPolynomialGcdPackage|
+                   |GroebnerFactorizationPackage| |Guess| |GuessExpBin|
+                   |Integer| |InternalRationalUnivariateRepresentationPackage|
+                   |LaplaceTransform| |LinearPolynomialEquationByFractions|
+                   |MRationalFactorize| |MultivariateFactorize|
+                   |NonLinearFirstOrderODESolver| |ODEIntegration|
+                   |ParametricLinearEquations| |PartialFractionPackage|
+                   |PolynomialFactorizationByRecursion|
+                   |PolynomialFactorizationExplicit&|
+                   |PolynomialSolveByFormulas| |RadicalSolvePackage|
+                   |RationalUnivariateRepresentationPackage|
+                   |RealNormalizationUtilities| |TransSolvePackage|
+                   |ZeroDimensionalSolvePackage|)
+(|GeneralPolynomialSet| |PolynomialSetCategory&|)
+(|FinitePoset| |Poset&|)
+(|AlgebraGivenByStructuralConstants| |CliffordAlgebra| |CyclicGroup|
+                                     |DihedralGroup|
+                                     |DirectProductMatrixModule|
+                                     |DirichletRing| |FiniteField|
+                                     |FiniteFieldCyclicGroup|
+                                     |FiniteFieldCyclicGroupExtension|
+                                     |FiniteFieldExtension|
+                                     |FiniteFieldNormalBasis|
+                                     |FiniteFieldNormalBasisExtension|
+                                     |GaloisGroupFactorizerSeparate|
+                                     |GenericNonAssociativeAlgebra|
+                                     |IndexedJetBundle| |InnerFiniteField|
+                                     |InnerPrimeField|
+                                     |IntegerLocalizedAtPrime| |IntegerMod|
+                                     |LieExponentials| |LieSquareMatrix|
+                                     |NormRetractPackage| |Permanent|
+                                     |PrimeField| |QuadraticForm| |SCartesian|
+                                     |SConformal| |SetOfMIntegersInOneToN|
+                                     |SubSpace| |VectorPolynomialOperationsP|)
+(|FunctionSpaceToUnivariatePowerSeries| |FunctionSpaceToUnivariatePowerSeries2|
+                                        |PowerSeriesCategory&|
+                                        |TaylorSeriesExpansion|
+                                        |TaylorSeriesExpansion&|)
+(|FiniteField| |FiniteFieldCyclicGroup| |FiniteFieldNormalBasis|)
+(|ModularAlgebraicGcdTools2| |ModularFactorizationTools3|
+                             |PrimitiveTwoDimensionalArray| |Tuple|)
+(|ConstantLODE| |ElementaryFunctionDefiniteIntegration|
+                |ElementaryFunctionLODESolver| |ElementaryFunctionODESolver|
+                |FunctionSpaceIntegration| |InverseLaplaceTransform|
+                |LaplaceTransform| |NonLinearFirstOrderODESolver|
+                |ODEIntegration| |RealNormalizationUtilities|)
+(|ModularFactorizationTools3|)
+(|Heap|)
+(|TensorProduct|)
+(|Octonion|)
+(|GeneralQuaternion| |Quaternion| |QuaternionCategory&|
+                     |QuaternionCategoryFunctions2|)
+(|Queue|)
+(|BalancedPAdicRational| |BinaryExpansion| |CommonDenominator|
+                         |DecimalExpansion| |ExponentialExpansion| |Fraction|
+                         |FractionalIdeal| |FractionalIdealAsModule|
+                         |FractionalIdealFunctions2| |HexadecimalExpansion|
+                         |InnerCommonDenominator|
+                         |InnerMatrixQuotientFieldFunctions|
+                         |MatrixCommonDenominator| |PAdicRational|
+                         |PAdicRationalConstructor|
+                         |PatternMatchQuotientFieldCategory|
+                         |PolynomialCommonDenominator| |QuotientFieldCategory&|
+                         |QuotientFieldCategoryFunctions2| |RadixExpansion|
+                         |UnivariatePolynomialCommonDenominator|)
+(|CoordinateSystems| |ElementaryFunction| |InnerTrigonometricManipulations|
+                     |LiouvillianFunction| |RadicalCategory&|
+                     |TrigonometricManipulationsAux|)
+(|Cell| |CylindricalAlgebraicDecompositionPackage| |RealClosedField&|
+        |RealClosure| |SimpleCell|)
+(|AlgebraicNumber| |PiDomain| |RealClosure| |ZeroDimensionalSolvePackage|)
+(|RealNumberSystem&|)
+(|RealRootCharacterizationCategory&| |RightOpenIntervalRootCharacterization|)
+(|RectangularMatrix| |RectangularMatrixCategory&|
+                     |RectangularMatrixCategoryFunctions2|)
+(|RecursiveAggregate&| |SplittingTree| |Tree|)
+(|GeneralPolynomialSet| |GeneralTriangularSet|
+                        |InternalRationalUnivariateRepresentationPackage|
+                        |LazardSetSolvingPackage|
+                        |NewSparseMultivariatePolynomial|
+                        |NormalizationPackage|
+                        |NormalizedTriangularSetCategory|
+                        |PolynomialSetCategory| |PolynomialSetCategory&|
+                        |PolynomialSetUtilitiesPackage| |QuasiComponentPackage|
+                        |RecursivePolynomialCategory&|
+                        |RegularSetDecompositionPackage| |RegularTriangularSet|
+                        |RegularTriangularSetCategory|
+                        |RegularTriangularSetCategory&|
+                        |RegularTriangularSetGcdPackage|
+                        |SquareFreeNormalizedTriangularSetCategory|
+                        |SquareFreeQuasiComponentPackage|
+                        |SquareFreeRegularSetDecompositionPackage|
+                        |SquareFreeRegularTriangularSet|
+                        |SquareFreeRegularTriangularSetCategory|
+                        |SquareFreeRegularTriangularSetGcdPackage|
+                        |TriangularSetCategory| |TriangularSetCategory&|
+                        |WuWenTsunTriangularSet|)
+(|LazardSetSolvingPackage| |NormalizationPackage| |QuasiComponentPackage|
+                           |RegularChain| |RegularSetDecompositionPackage|
+                           |RegularTriangularSet|
+                           |RegularTriangularSetCategory&|
+                           |RegularTriangularSetGcdPackage|
+                           |SquareFreeQuasiComponentPackage|
+                           |SquareFreeRegularTriangularSetGcdPackage|)
+(|IntegerLocalizedAtPrime| |OrderedExpression| |RetractableFrom&|)
+(|AlgebraicIntegrate| |AlgebraicIntegrate2| |AlgebraicNumber| |AntiSymm|
+                      |BoundIntegerRoots| |CardinalNumber|
+                      |ComplexTrigonometricManipulations| |ConstantLODE|
+                      |DeRhamComplex| |DefiniteIntegrationTools|
+                      |DenominatorIntegration|
+                      |DifferentialSparseMultivariatePolynomial|
+                      |ElementaryFunctionDefiniteIntegration|
+                      |ElementaryFunctionLODESolver|
+                      |ElementaryFunctionODESolver| |ElementaryFunctionSign|
+                      |ElementaryFunctionStructurePackage|
+                      |ElementaryIntegration| |ElementaryRischDEX|
+                      |ElementaryRischDEX2| |ErrorIndicator|
+                      |ExponentialExpansion|
+                      |ExpressionToUnivariatePowerSeries| |FortranExpression|
+                      |FractionalIdeal| |FractionalIdealFunctions2| |FreeGroup|
+                      |FreeMagma| |FreeMonoid|
+                      |FunctionSpaceComplexIntegration|
+                      |FunctionSpaceComplexIntegrationAux|
+                      |FunctionSpaceIntegration| |FunctionSpaceRationalRoots|
+                      |FunctionSpaceReduce| |FunctionSpaceSum|
+                      |FunctionSpaceToExponentialExpansion|
+                      |FunctionSpaceToUnivariatePowerSeries|
+                      |FunctionSpaceToUnivariatePowerSeries2|
+                      |GaloisGroupFactorizationUtilities|
+                      |GenerateEllipticIntegrals|
+                      |GenerateUnivariatePowerSeries|
+                      |GenerateUnivariatePowerSeries2| |GenusZeroIntegration|
+                      |GosperSummationMethod| |Guess| |GuessExpBin|
+                      |IntegerLocalizedAtPrime| |IntegerRetractions|
+                      |IntegrateSolutions| |IntegrationResult|
+                      |IntegrationResultRFToFunction|
+                      |IntegrationResultToFunction| |InverseLaplaceTransform|
+                      |JetBundleLinearFunction| |Kovacic| |LaplaceTransform|
+                      |LaurentPolynomial|
+                      |LinearOrdinaryDifferentialOperatorFactorizer|
+                      |ListMonoidOps| |LyndonWord| |MachineFloat|
+                      |ModuleOperator| |NewSparseMultivariatePolynomial|
+                      |NewSparseUnivariatePolynomial|
+                      |NonLinearFirstOrderODESolver| |ODEIntegration|
+                      |Operator| |OrderlyDifferentialPolynomial|
+                      |ParametricIntegration| |ParametricRischDE| |Pattern|
+                      |PatternMatchFunctionSpace| |PatternMatchIntegration|
+                      |PatternMatchKernel| |PatternMatchPushDown|
+                      |PatternMatchTools| |PiDomain|
+                      |PoincareBirkhoffWittLyndonBasis| |PointsOfFiniteOrder|
+                      |PowerSeriesLimitPackage| |PrimitiveRatDE|
+                      |PrimitiveRatRicDE| |PureAlgebraicIntegration|
+                      |PureAlgebraicLODE| |RationalFunctionDefiniteIntegration|
+                      |RationalFunctionIntegration| |RationalFunctionSum|
+                      |RationalIntegration| |RationalLODE|
+                      |RationalRetractions| |RationalRicDE|
+                      |RealNormalizationUtilities| |RecurrenceOperator|
+                      |RetractSolvePackage| |RetractableTo&| |RewriteRule|
+                      |RootFSSplit| |RootUtilities|
+                      |SequentialDifferentialPolynomial| |SmallOrdinal|
+                      |SparseUnivariatePuiseuxSeries|
+                      |TopLevelDrawFunctionsForAlgebraicCurves|
+                      |TransSolvePackage| |TrigonometricManipulations|
+                      |UnivariatePuiseuxSeries|
+                      |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|AntiSymm| |ApplyRules| |ApplyUnivariateSkewPolynomial| |Automorphism|
+            |BezoutMatrix| |BezoutMatrixWrapper| |CharacteristicPolynomial4|
+            |CliffordAlgebra| |CommuteUnivariatePolynomialCategory|
+            |DeRhamComplex| |DegreeReductionPackage| |DifferentialExtension|
+            |DifferentialExtension&| |DifferentialPolynomialCategory|
+            |DifferentialPolynomialCategory&|
+            |DifferentialSparseMultivariatePolynomial|
+            |DirectProductMatrixModule| |DirectProductModule| |DirichletRing|
+            |DistributedJetBundlePolynomial|
+            |DistributedMultivariatePolynomial| |ExpressionFunctions2|
+            |ExpressionToOpenMath| |FactoringUtilities|
+            |FiniteAbelianMonoidRingFunctions2| |FullyLinearlyExplicitOver|
+            |FullyLinearlyExplicitOver&| |FunctionSpaceFunctions2|
+            |GaloisGroupFactorizationUtilities|
+            |GaloisGroupPolynomialUtilities| |GaloisGroupUtilities|
+            |GeneralDistributedMultivariatePolynomial| |GeneralPolynomialSet|
+            |GeneralUnivariatePowerSeries| |GeneralizedUnivariatePowerSeries|
+            |GenerateUnivariatePowerSeries1| |GenerateUnivariatePowerSeries2|
+            |GuessPolynomial| |GuessPolynomialFunctions| |HankelPackage|
+            |HomogeneousDistributedMultivariatePolynomial| |IncidenceAlgebra|
+            |InfiniteLambertProduct| |InnerPolySign|
+            |InnerSparseUnivariatePowerSeries| |InnerTaylorSeries|
+            |IntegralBasisPolynomialTools| |JetBundlePolynomial|
+            |LODOConvertions| |LeftAlgebra| |LeftAlgebra&|
+            |LinearMultivariateMatrixPencil|
+            |LinearOrdinaryDifferentialOperator|
+            |LinearOrdinaryDifferentialOperator3|
+            |LinearOrdinaryDifferentialOperator3Aux|
+            |LinearOrdinaryDifferentialOperatorCategory|
+            |LinearOrdinaryDifferentialOperatorCategory&|
+            |LinearlyExplicitOver| |MPolyCatFunctions2| |MPolyCatFunctions3|
+            |ModMonic| |ModularRing| |ModuleOperator| |MonoidRing|
+            |MonoidRingCategory| |MonoidRingFunctions2|
+            |MultivariatePolynomial| |MultivariateSkewPolynomialCategory|
+            |MultivariateTaylorSeriesCategory|
+            |MultivariateTaylorSeriesCategory&|
+            |NewSparseMultivariatePolynomial| |NewSparseUnivariatePolynomial|
+            |NewSparseUnivariatePolynomialFunctions2| |Operator|
+            |OrderlyDifferentialPolynomial| |OrdinaryWeightedPolynomials|
+            |PathArrayPackage| |PatternMatchPolynomialCategory|
+            |PatternMatchTools| |Permanent| |Point| |PointCategory|
+            |PointFunctions2| |PointPackage| |PolToPol| |Polynomial|
+            |PolynomialCategoryQuotientFunctions| |PolynomialFunctions2|
+            |PolynomialSetCategory| |PolynomialSetCategory&|
+            |PolynomialToUnivariatePolynomial| |PowerSeriesCategory|
+            |PowerSeriesCategory&| |PushVariables|
+            |RecursivePolynomialCategory| |RecursivePolynomialCategory&|
+            |RepresentationPackage1| |RepresentationPackage2| |RewriteRule|
+            |Ruleset| |SequentialDifferentialPolynomial|
+            |SolvableSkewPolynomialCategory| |SparseEchelonMatrix|
+            |SparseMultivariatePolynomialExpressions|
+            |SparseMultivariateSkewPolynomial| |SparseMultivariateTaylorSeries|
+            |SparsePolynomialCoercionHelpers| |SparseUnivariateLaurentSeries|
+            |SparseUnivariatePolynomialFunctions2|
+            |SparseUnivariatePuiseuxSeries| |SparseUnivariateSkewPolynomial|
+            |SparseUnivariateTaylorSeries| |StorageEfficientMatrixOperations|
+            |StreamTaylorSeriesOperations| |StreamTaylorSeriesOperations2|
+            |StreamTaylorSeriesOperationsCategory| |SubSpace|
+            |SymmetricFunctions| |SymmetricPolynomial| |TaylorSeries|
+            |ThreeSpace| |ThreeSpaceCategory| |ToolsForSign| |U64Int|
+            |UTSodetools| |UnivariateFormalPowerSeries|
+            |UnivariateFormalPowerSeriesFunctions| |UnivariateLaurentSeries|
+            |UnivariateLaurentSeriesCategory|
+            |UnivariateLaurentSeriesCategory&|
+            |UnivariateLaurentSeriesConstructor|
+            |UnivariateLaurentSeriesConstructorCategory|
+            |UnivariateLaurentSeriesConstructorCategory&|
+            |UnivariateLaurentSeriesFunctions2| |UnivariatePolynomial|
+            |UnivariatePolynomialFunctions2|
+            |UnivariatePolynomialMultiplicationPackage|
+            |UnivariatePowerSeriesCategory| |UnivariatePowerSeriesCategory&|
+            |UnivariatePuiseuxSeries| |UnivariatePuiseuxSeriesCategory|
+            |UnivariatePuiseuxSeriesConstructor|
+            |UnivariatePuiseuxSeriesConstructorCategory|
+            |UnivariatePuiseuxSeriesConstructorCategory&|
+            |UnivariatePuiseuxSeriesFunctions2|
+            |UnivariateSeriesWithRationalExponents| |UnivariateSkewPolynomial|
+            |UnivariateSkewPolynomialCategory|
+            |UnivariateSkewPolynomialCategory&|
+            |UnivariateSkewPolynomialCategoryOps| |UnivariateTaylorSeries|
+            |UnivariateTaylorSeriesCategory| |UnivariateTaylorSeriesCategory&|
+            |UnivariateTaylorSeriesFunctions2| |WeightedPolynomials| |XAlgebra|
+            |XDistributedPolynomial| |XExponentialPackage| |XFreeAlgebra|
+            |XPolynomial| |XPolynomialRing| |XPolynomialsCat|
+            |XRecursivePolynomial|)
+(|Rng&|)
+(|CyclicGroup| |InfiniteCyclicGroup| |InputForm|)
+(|InputForm| |SExpression| |SExpressionOf|)
+(|SArgand| |SBoundary| |SCartesian| |SConformal| |SPointCategory&| |STransform|
+           |Scene| |SceneIFS| |SceneNamedPoints|)
+(|Segment| |UniversalSegment|)
+(|GeneralizedUnivariatePowerSeries| |NonNegativeInteger| |NonNegativeRational|
+                                    |SmallOrdinal|)
+(|AbelianMonoidRing| |AbelianMonoidRing&| |BiModule| |FiniteAbelianMonoidRing|
+                     |FiniteAbelianMonoidRing&| |FramedModule| |FramedModule&|
+                     |FreeModule| |FreeModuleCategory| |FreeModuleCategory&|
+                     |FreeModuleCoefficientFunctions2| |LeftModule|
+                     |MatrixCategoryFunctions2| |MaybeSkewPolynomialCategory|
+                     |MaybeSkewPolynomialCategory&| |PolynomialCategory|
+                     |PolynomialCategory&| |PolynomialCategoryLifting|
+                     |PolynomialRing| |RectangularMatrix|
+                     |RectangularMatrixCategory| |RectangularMatrixCategory&|
+                     |RectangularMatrixCategoryFunctions2| |RightModule|
+                     |SparseMultivariatePolynomial|
+                     |SparseUnivariatePolynomial| |SquareMatrix|
+                     |SquareMatrixCategory| |SquareMatrixCategory&|
+                     |UnivariatePolynomialCategory|
+                     |UnivariatePolynomialCategory&|
+                     |UnivariatePolynomialCategoryFunctions2|)
+(|Sequence|)
+(|SequentialDifferentialPolynomial|)
+(|SetAggregate&|)
+(|AnonymousFunction| |Any| |ApplyRules| |ArrayStack| |AssociationList|
+                     |AssociationListAggregate| |AssociationListAggregate&|
+                     |BalancedBinaryTree| |BasicOperatorFunctions1| |BiCPO|
+                     |BinaryTree| |BinaryTreeCategory| |BinaryTreeCategory&|
+                     |ChainComplex| |CharacterClass| |CoChainComplex| |CoDcpo|
+                     |Commutator| |ComplexPattern| |ComplexPatternMatch|
+                     |Database| |Dcpo| |DeltaComplex| |Dequeue| |DirectedGraph|
+                     |DrawOption| |EqTable| |Evalable| |Evalable&| |Exit|
+                     |File| |FileCategory| |FiniteBiCPO| |FiniteCoDcpo|
+                     |FiniteCubicalComplex| |FiniteDcpo| |FiniteGraph|
+                     |FiniteGraph&| |FiniteLattice| |FiniteMoebiusFunction|
+                     |FinitePoset| |FiniteSetAggregate| |FiniteSetAggregate&|
+                     |FiniteSetAggregateFunctions2| |FiniteSimplicialComplex|
+                     |FortranCode| |FortranType| |FreeGroup| |FreeModule|
+                     |FreeModuleCategory| |FreeModuleCategory&| |FreeMonoid|
+                     |FullPartialFractionExpansion| |FullyEvalableOver|
+                     |FullyEvalableOver&| |FunctionCalled| |FunctionGraph|
+                     |GeneralSparseTable| |GeneralizedFiniteMoebiusFunction|
+                     |GenusZeroIntegration| |GraphImage| |GroupPresentation|
+                     |GroupPresentationFunctions1| |GuessOption|
+                     |GuessOptionFunctions0| |HTMLFormat| |HashTable|
+                     |Homology| |IncidenceAlgebra|
+                     |IndexedDirectProductCategory|
+                     |IndexedDirectProductObject| |IndexedProductCategory|
+                     |InnerEvalable| |InnerEvalable&| |InnerTable|
+                     |KeyedAccessFile| |ListMonoidOps| |ListMultiDictionary|
+                     |ListToMap| |Loop| |MakeCachableSet| |MappingPackage1|
+                     |MappingPackage2| |MappingPackage3|
+                     |MappingPackageInternalHacks1|
+                     |MappingPackageInternalHacks2|
+                     |MappingPackageInternalHacks3| |MathMLFormat|
+                     |ModuleMonomial| |MultiDictionary|
+                     |MultiVariableCalculusFunctions| |MultifunctionGraph|
+                     |Multiset| |MultisetAggregate| |None| |OnePointCompletion|
+                     |OnePointCompletionFunctions2| |OpenMathEncoding|
+                     |OpenMathError| |OpenMathErrorKind| |OrderedCompletion|
+                     |OrderedCompletionFunctions2| |OrdinaryDifferentialRing|
+                     |OutputForm| |Palette| |PartialDifferentialRing|
+                     |PartialDifferentialRing&| |Pattern| |PatternFunctions1|
+                     |PatternFunctions2| |PatternMatch|
+                     |PatternMatchFunctionSpace| |PatternMatchKernel|
+                     |PatternMatchListAggregate| |PatternMatchListResult|
+                     |PatternMatchPolynomialCategory| |PatternMatchPushDown|
+                     |PatternMatchQuotientFieldCategory| |PatternMatchResult|
+                     |PatternMatchResultFunctions2| |PatternMatchSymbol|
+                     |PatternMatchTools| |PatternMatchable| |PendantTree|
+                     |Permutation| |PermutationCategory| |PermutationGroup|
+                     |PolynomialIdeal| |Poset| |Poset&| |PosetFactory|
+                     |Preorder| |Product| |PureAlgebraicIntegration|
+                     |QuasiAlgebraicSet| |Queue| |RandomDistributions|
+                     |RepeatedDoubling| |RepeatedSquaring| |RewriteRule|
+                     |RuleCalled| |Ruleset| |SExpressionCategory|
+                     |SExpressionOf| |SKICombinators| |SceneNamedPoints| |Set|
+                     |SetAggregate| |SetAggregate&| |SetCategory&|
+                     |SparseTable| |SplittingNode| |SplittingTree| |Stack|
+                     |SubSpace| |SubSpaceComponentProperty| |SubsetLattice|
+                     |SuchThat| |Table| |Tableau| |TabulatedComputationPackage|
+                     |TexFormat| |TexFormat1| |TexmacsFormat|
+                     |ThreeDimensionalMatrix| |ThreeDimensionalViewport|
+                     |TopLevelDrawFunctions| |Tree| |TwoDimensionalViewport|
+                     |UndirectedGraph| |UserDefinedPartialOrdering| |Variable|
+                     |WeightedGraph|)
+(|FiniteFieldNormalBasisExtensionByPolynomial|)
+(|FunctionSpaceToUnivariatePowerSeries| |FunctionSpaceToUnivariatePowerSeries2|
+                                        |TaylorSeriesExpansionGeneralized|
+                                        |TaylorSeriesExpansionLaurent|
+                                        |TaylorSeriesExpansionPuiseux|
+                                        |TaylorSeriesExpansionTaylor|)
+(|NGroebnerPackage|)
+(|DifferentialSparseMultivariatePolynomial| |NewSparseMultivariatePolynomial|
+                                            |OrderlyDifferentialPolynomial|
+                                            |SequentialDifferentialPolynomial|)
+(|ExpressionSolve| |TaylorSolve|)
+(|SparseUnivariatePuiseuxSeries|)
+(|FiniteFieldCyclicGroupExtensionByPolynomial|
+ |FiniteFieldExtensionByPolynomial|
+ |FiniteFieldNormalBasisExtensionByPolynomial| |ModularAlgebraicGcdTools3|
+ |ModularAlgebraicGcdTools4| |ModularEvaluation2|
+ |NewSparseUnivariatePolynomial| |PiDomain|)
+(|SparseUnivariateLaurentSeries| |SparseUnivariatePuiseuxSeries|)
+(|DenominatorIntegration| |DoubleFloat| |ElementaryRischDEX|
+                          |InverseLaplaceTransform| |JetBundleExpression|
+                          |JetBundleXExpression|)
+(|SplittingTree|)
+(|InternalRationalUnivariateRepresentationPackage| |LazardSetSolvingPackage|
+                                                   |SquareFreeRegularSetDecompositionPackage|
+                                                   |SquareFreeRegularTriangularSet|)
+(|AlgebraGivenByStructuralConstants| |CliffordAlgebra|
+                                     |GenericNonAssociativeAlgebra|
+                                     |LieSquareMatrix|)
+(|DirectProductMatrixModule| |SquareMatrix| |SquareMatrixCategory&|)
+(|ArrayStack| |Stack|)
+(|IntegerMod|)
+(|SegmentExpansionCategory| |StreamAggregate&|)
+(|StreamTaylorSeriesOperations| |StreamTaylorSeriesOperations2|)
+(|CharacterClass| |ErrorIndicator| |FortranTemplate| |HashTable| |InputForm|
+                  |Integer| |KeyedAccessFile| |Library| |SExpression|
+                  |SingleInteger| |StringTable| |TextFile|)
+(|IndexedString| |StringAggregate&|)
+(|String|)
+(|AlgebraGivenByStructuralConstants| |AntiSymm| |CyclicGroup| |DeRhamComplex|
+                                     |DihedralGroup|
+                                     |DistributedMultivariatePolynomial|
+                                     |DistributionContinuedFractionPackage|
+                                     |ExponentialExpansion|
+                                     |ExponentialOfUnivariatePuiseuxSeries|
+                                     |FGLMIfCanPackage| |FortranExpression|
+                                     |FortranProgram| |FunctionCalled|
+                                     |FunctionSpaceToExponentialExpansion|
+                                     |FunctionSpaceToUnivariatePowerSeries|
+                                     |FunctionSpaceToUnivariatePowerSeries2|
+                                     |GeneralDistributedMultivariatePolynomial|
+                                     |GeneralModulePolynomial|
+                                     |GeneralUnivariatePowerSeries|
+                                     |GeneralizedUnivariatePowerSeries|
+                                     |GenerateUnivariatePowerSeries|
+                                     |GenerateUnivariatePowerSeries2|
+                                     |GenericNonAssociativeAlgebra|
+                                     |GroebnerSolve| |Guess| |GuessExpBin|
+                                     |HomogeneousDistributedMultivariatePolynomial|
+                                     |IdealDecompositionPackage|
+                                     |IndexedJetBundle| |InfiniteCyclicGroup|
+                                     |InputForm| |JetBundle| |JetBundleSymAna|
+                                     |LexTriangularPackage|
+                                     |LinGroebnerPackage|
+                                     |LinearOrdinaryDifferentialOperatorFactorizer2|
+                                     |ModularAlgebraicGcdTools2|
+                                     |ModularAlgebraicGcdTools3|
+                                     |ModularAlgebraicGcdTools4|
+                                     |ModularEvaluation2|
+                                     |MultivariatePolynomial|
+                                     |OrderedVariableList|
+                                     |OrderlyDifferentialPolynomial|
+                                     |OrdinaryWeightedPolynomials|
+                                     |PadeApproximantPackage|
+                                     |PadeContinuousFraction|
+                                     |ParametricLinearEquations| |Pattern|
+                                     |PolToPol| |Polynomial|
+                                     |PolynomialInterpolation|
+                                     |PolynomialToUnivariatePolynomial|
+                                     |QuasiAlgebraicSet2|
+                                     |RationalInterpolation|
+                                     |RationalUnivariateRepresentationPackage|
+                                     |RecurrenceOperator| |RegularChain|
+                                     |Result| |RuleCalled| |SExpression|
+                                     |SequentialDifferentialPolynomial|
+                                     |SparseUnivariateLaurentSeries|
+                                     |SparseUnivariatePuiseuxSeries|
+                                     |SparseUnivariateTaylorSeries| |Symbol|
+                                     |SymmetryAnalysis| |TaylorSeries|
+                                     |UnivariateLaurentSeries|
+                                     |UnivariateLaurentSeriesFunctions2|
+                                     |UnivariatePolynomial|
+                                     |UnivariatePolynomialFunctions2|
+                                     |UnivariatePuiseuxSeries|
+                                     |UnivariatePuiseuxSeriesFunctions2|
+                                     |UnivariatePuiseuxSeriesWithExponentialSingularity|
+                                     |UnivariateSkewPolynomial|
+                                     |UnivariateTaylorSeries| |Variable|
+                                     |XPolynomial|
+                                     |ZeroDimensionalSolvePackage|)
+(|FortranProgram|)
+(|EqTable| |GeneralSparseTable| |HashTable| |InnerTable| |KeyedAccessFile|
+           |Library| |Result| |SparseTable| |StringTable| |Table|
+           |TableAggregate&| |XHashTable|)
+(|FunctionSpaceToUnivariatePowerSeries| |FunctionSpaceToUnivariatePowerSeries2|
+                                        |TaylorSeriesExpansion&|
+                                        |TaylorSeriesExpansionGeneralized|
+                                        |TaylorSeriesExpansionLaurent|
+                                        |TaylorSeriesExpansionPuiseux|
+                                        |TaylorSeriesExpansionTaylor|)
+(|TensorPower| |TensorPowerCategory&|)
+(|TensorProduct| |TensorProductProperty|)
+(|ThreeSpace|)
+(|ComplexTrigonometricManipulations| |ConstantLODE| |CoordinateSystems|
+                                     |DefiniteIntegrationTools|
+                                     |DenavitHartenbergMatrix|
+                                     |DenominatorIntegration| |DoubleFloat|
+                                     |ElementaryFunctionDefiniteIntegration|
+                                     |ElementaryFunctionLODESolver|
+                                     |ElementaryFunctionODESolver|
+                                     |ElementaryFunctionSign|
+                                     |ElementaryFunctionStructurePackage|
+                                     |ElementaryIntegration|
+                                     |ElementaryRischDEX| |ElementaryRischDEX2|
+                                     |ExponentialExpansion|
+                                     |ExpressionToUnivariatePowerSeries|
+                                     |Float| |FunctionSpaceComplexIntegration|
+                                     |FunctionSpaceComplexIntegrationAux|
+                                     |FunctionSpaceIntegration|
+                                     |FunctionSpaceSum|
+                                     |FunctionSpaceToExponentialExpansion|
+                                     |FunctionSpaceToUnivariatePowerSeries|
+                                     |FunctionSpaceToUnivariatePowerSeries2|
+                                     |GaloisGroupFactorizationUtilities|
+                                     |GenerateUnivariatePowerSeries|
+                                     |GenusZeroIntegration|
+                                     |InnerTrigonometricManipulations|
+                                     |IntegrationResultToFunction| |Interval|
+                                     |IntervalCategory|
+                                     |InverseLaplaceTransform|
+                                     |JetBundleExpression|
+                                     |JetBundleXExpression| |LaplaceTransform|
+                                     |LiouvillianFunction|
+                                     |NonLinearFirstOrderODESolver|
+                                     |ODEIntegration| |ParametricIntegration|
+                                     |ParametricRischDE|
+                                     |PatternMatchIntegration|
+                                     |PowerSeriesLimitPackage|
+                                     |PureAlgebraicIntegration|
+                                     |RealNormalizationUtilities|
+                                     |RootUtilities|
+                                     |StreamExponentialSeriesTranscendentalFunctions|
+                                     |TranscendentalFunctionCategory&|
+                                     |TranscendentalManipulations|
+                                     |TrigonometricManipulations|
+                                     |TrigonometricManipulationsAux|
+                                     |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|GeneralTriangularSet| |TriangularSetCategory&| |WuWenTsunTriangularSet|)
+(|TrigonometricFunctionCategory&|)
+(|IndexedTwoDimensionalArray| |InnerIndexedTwoDimensionalArray|
+                              |MatrixManipulation|
+                              |PrimitiveTwoDimensionalArray|
+                              |TwoDimensionalArray|
+                              |TwoDimensionalArrayCategory&|
+                              |TwoDimensionalArrayFunctions|)
+(|AbelianProductCategory| |AnyFunctions1| |AssociationList|
+                          |AssociationListAggregate|
+                          |AssociationListAggregate&| |AttachPredicates|
+                          |BagAggregate| |BagAggregate&|
+                          |BinaryRecursiveAggregate|
+                          |BinaryRecursiveAggregate&| |CoercibleFrom|
+                          |CoercibleTo| |Collection| |Collection&|
+                          |ConvertibleFrom| |ConvertibleTo| |CyclicStreamTools|
+                          |DequeueAggregate| |Dictionary| |Dictionary&|
+                          |DictionaryOperations| |DictionaryOperations&|
+                          |DirectProduct| |DirectProductCategory|
+                          |DirectProductCategory&| |DirectProductFunctions2|
+                          |DoublyLinkedAggregate| |DrawOptionFunctions1|
+                          |Eltable| |EltableAggregate| |EltableAggregate&|
+                          |EqTable| |Equation| |EquationFunctions2|
+                          |ExpressionSpaceFunctions1|
+                          |ExtensibleLinearAggregate|
+                          |ExtensibleLinearAggregate&| |FiniteLinearAggregate|
+                          |FiniteLinearAggregateFunctions2|
+                          |FiniteLinearAggregateSort| |FlexibleArray|
+                          |FullyPatternMatchable| |FullyRetractableTo|
+                          |FullyRetractableTo&| |FunctionSpaceAttachPredicates|
+                          |HashTable| |HomogeneousAggregate|
+                          |HomogeneousAggregate&| |IndexedAggregate|
+                          |IndexedAggregate&| |IndexedFlexibleArray|
+                          |IndexedList| |IndexedOneDimensionalArray|
+                          |IndexedTwoDimensionalArray| |IndexedVector|
+                          |InfiniteTuple| |InfiniteTupleFunctions2|
+                          |InfiniteTupleFunctions3| |InnerEvalable|
+                          |InnerEvalable&| |InnerIndexedTwoDimensionalArray|
+                          |InnerTable| |InputFormFunctions1| |KeyedDictionary|
+                          |KeyedDictionary&| |LazyStreamAggregate|
+                          |LazyStreamAggregate&| |LinearAggregate|
+                          |LinearAggregate&| |List| |ListAggregate|
+                          |ListAggregate&| |ListFunctions2| |ListFunctions3|
+                          |ListToMap| |MakeBinaryCompiledFunction| |MakeRecord|
+                          |MakeUnaryCompiledFunction| |MatrixManipulation|
+                          |MatrixOperationsCategory| |ModularAlgebraicGcd|
+                          |ModularAlgebraicGcd2|
+                          |ModularAlgebraicGcdOperations|
+                          |ModularEvaluationCategory|
+                          |ModularFactorizationGeneral|
+                          |ModularFactorizationOperations| |NoneFunctions1|
+                          |OneDimensionalArray| |OneDimensionalArrayAggregate|
+                          |OneDimensionalArrayAggregate&|
+                          |OneDimensionalArrayFunctions2| |OperatorHandlers|
+                          |ParadoxicalCombinatorsForStreams|
+                          |ParametricComplexCurve| |ParametricPlaneCurve|
+                          |ParametricPlaneCurveFunctions2|
+                          |ParametricSpaceCurve|
+                          |ParametricSpaceCurveFunctions2| |ParametricSurface|
+                          |ParametricSurfaceFunctions2|
+                          |PartialTranscendentalFunctions| |PatternFunctions1|
+                          |Patternable| |PrimitiveArray|
+                          |PrimitiveArrayFunctions2|
+                          |PrimitiveTwoDimensionalArray| |QueueAggregate|
+                          |RecursiveAggregate| |RecursiveAggregate&|
+                          |Reference| |ResolveLatticeCompletion|
+                          |RetractableFrom| |RetractableFrom&| |RetractableTo|
+                          |RetractableTo&| |Segment| |SegmentBinding|
+                          |SegmentBindingFunctions2| |SegmentCategory|
+                          |SegmentFunctions2| |SortPackage| |StackAggregate|
+                          |Stream| |StreamAggregate| |StreamAggregate&|
+                          |StreamFunctions1| |StreamFunctions2|
+                          |StreamFunctions3| |StreamTensor| |StringTable|
+                          |Table| |TableAggregate| |TableAggregate&|
+                          |TimeoutPackage| |Tuple| |TwoDimensionalArray|
+                          |TwoDimensionalArrayCategory|
+                          |TwoDimensionalArrayCategory&|
+                          |TwoDimensionalArrayFunctions|
+                          |UnaryRecursiveAggregate| |UnaryRecursiveAggregate&|
+                          |UniversalSegment| |UniversalSegmentFunctions2|
+                          |Vector| |VectorCategory| |VectorCategory&|
+                          |VectorFunctions2| |XHashTable|)
+(|U16Matrix|)
+(|ModularFactorizationTools1|)
+(|ModularAlgebraicGcdTools2| |ModularFactorizationTools1| |U32Matrix|)
+(|U8Matrix|)
+(|UnaryRecursiveAggregate&|)
+(|ChangeOfVariable| |FunctionFieldCategory| |FunctionFieldCategory&|
+                    |FunctionFieldCategoryFunctions2| |RadicalFunctionField|
+                    |UniqueFactorizationDomain&|)
+(|UnivariatePuiseuxSeries|)
+(|ElementaryFunctionsUnivariatePuiseuxSeries|
+ |UnivariateLaurentSeriesCategory&| |UnivariatePuiseuxSeriesConstructor|
+ |UnivariatePuiseuxSeriesConstructorCategory|
+ |UnivariatePuiseuxSeriesConstructorCategory&|)
+(|ElementaryFunctionsUnivariateLaurentSeries| |STransformPackage|
+                                              |SparseUnivariateLaurentSeries|
+                                              |TaylorSeriesExpansionLaurent|
+                                              |TaylorSeriesExpansionPuiseux|
+                                              |UnivariateLaurentSeries|
+                                              |UnivariateLaurentSeriesConstructor|
+                                              |UnivariateLaurentSeriesConstructorCategory&|)
+(|AlgFactor| |AlgebraicFunctionField| |AlgebraicHermiteIntegration|
+             |AlgebraicIntegrate| |AlgebraicIntegrate2| |BalancedFactorisation|
+             |BezoutMatrix| |BezoutMatrixWrapper| |BoundIntegerRoots|
+             |BrillhartTests| |ChangeOfVariable|
+             |CharacteristicPolynomialInMonogenicalAlgebra|
+             |ChineseRemainderToolsForIntegralBases|
+             |CommuteUnivariatePolynomialCategory| |ComplexRootFindingPackage|
+             |ComplexRootPackage| |CylindricalAlgebraicDecompositionUtilities|
+             |DistributionPolynomialPackage| |DoubleResultantPackage|
+             |EuclideanModularRing| |FindOrderFinite| |FiniteDivisor|
+             |FiniteDivisorCategory| |FiniteDivisorCategory&|
+             |FiniteDivisorFunctions2|
+             |FiniteFieldSolveLinearPolynomialEquation| |FiniteRankAlgebra|
+             |FiniteRankAlgebra&| |FractionalIdeal| |FractionalIdealAsModule|
+             |FractionalIdealFunctions2| |FramedAlgebra| |FramedAlgebra&|
+             |FullPartialFractionExpansion| |FunctionFieldCategory|
+             |FunctionFieldCategory&| |FunctionFieldCategoryFunctions2|
+             |FunctionFieldIntegralBasis| |GaloisGroupFactorizationUtilities|
+             |GaloisGroupFactorizer| |GaloisGroupFactorizerSeparate|
+             |GaloisGroupPolynomialUtilities| |GenExEuclid|
+             |GeneralHenselPackage| |GenerateEllipticIntegrals| |HeuGcd|
+             |HyperellipticFiniteDivisor| |InnerAlgFactor| |InnerModularGcd|
+             |InnerPolySign| |IntegralBasisPolynomialTools|
+             |IntegralBasisTools| |Kovacic| |LaurentPolynomial|
+             |LiftLinearDependence| |LinearCombinationUtilities|
+             |LinearOrdinaryDifferentialOperatorFactorizer| |ModMonic|
+             |MonogenicAlgebra| |MonogenicAlgebra&| |MonomialExtensionTools|
+             |MultipleMap| |NPCoef| |NewSparseUnivariatePolynomial|
+             |NormInMonogenicAlgebra| |NormRetractPackage|
+             |NumberFieldIntegralBasis| |PAdicWildFunctionFieldIntegralBasis|
+             |PadeApproximants| |ParametricTranscendentalIntegration|
+             |PartialFractionUtilities| |PointsOfFiniteOrder|
+             |PointsOfFiniteOrderRational| |PointsOfFiniteOrderTools|
+             |PolynomialInterpolationAlgorithms| |PolynomialRationalRoots|
+             |PolynomialSolveByFormulas| |PrimitiveRatDE| |PrimitiveRatRicDE|
+             |PseudoRemainderSequence| |PureAlgebraicLODE|
+             |RadicalFunctionField| |RationalFactorize|
+             |RationalFunctionFactor| |RationalIntegration| |RationalLODE|
+             |RationalRicDE| |RealPolynomialUtilitiesPackage|
+             |RealRootCharacterizationCategory|
+             |RealRootCharacterizationCategory&| |RealZeroPackage|
+             |RealZeroPackageQ| |ReduceLODE| |ReducedDivisor|
+             |RightOpenIntervalRootCharacterization| |SimpleAlgebraicExtension|
+             |SimpleCell| |SparseUnivariatePolynomial| |SturmHabichtPackage|
+             |SubResultantPackage| |TranscendentalHermiteIntegration|
+             |TranscendentalIntegration| |UTSodetools|
+             |UnivariateFiniteFieldFactorize| |UnivariatePolynomial|
+             |UnivariatePolynomialCategory&|
+             |UnivariatePolynomialCategoryFunctions2|
+             |UnivariatePolynomialCommonDenominator|
+             |UnivariatePolynomialDecompositionPackage|
+             |UnivariatePolynomialDivisionPackage|
+             |UnivariatePolynomialMultiplicationPackage|
+             |UnivariatePolynomialSquareFree| |WildFunctionFieldIntegralBasis|)
+(|ElementaryFunctionsGeneralizedUnivariatePowerSeries|
+ |FunctionSpaceToUnivariatePowerSeries| |FunctionSpaceToUnivariatePowerSeries2|
+ |GeneralizedUnivariatePowerSeries| |InnerSparseUnivariatePowerSeries|
+ |TaylorSeriesExpansionGeneralized| |UnivariatePowerSeriesCategory&|)
+(|ExponentialExpansion| |UnivariatePuiseuxSeriesWithExponentialSingularity|)
+(|ExponentialOfUnivariatePuiseuxSeries| |GeneralUnivariatePowerSeries|)
+(|ElementaryFunctionsUnivariatePuiseuxSeries| |STransformPackage|
+                                              |SparseUnivariatePuiseuxSeries|
+                                              |TaylorSeriesExpansionPuiseux|
+                                              |UnivariatePuiseuxSeries|
+                                              |UnivariatePuiseuxSeriesConstructor|
+                                              |UnivariatePuiseuxSeriesConstructorCategory&|)
+(|ExponentialExpansion|)
+(|ApplyUnivariateSkewPolynomial| |IntegrateSolutions|
+                                 |OrePolynomialMatrixOperations|
+                                 |SparseUnivariateSkewPolynomial|
+                                 |UnivariateSkewPolynomial|
+                                 |UnivariateSkewPolynomialCategory&|
+                                 |UnivariateSkewPolynomialCategoryOps|)
+(|UnivariateLaurentSeries| |UnivariatePuiseuxSeries|)
+(|ElementaryFunctionsUnivariateLaurentSeries|
+ |EllipticFunctionsUnivariateTaylorSeries| |ExpressionSolve|
+ |FunctionSpaceToUnivariatePowerSeries| |FunctionSpaceToUnivariatePowerSeries2|
+ |InfiniteLambertProduct| |PadeApproximants| |STransformPackage|
+ |SparseUnivariateTaylorSeries| |SpecialFunctionUnivariateTaylorSeries|
+ |TaylorSeriesExpansion| |TaylorSeriesExpansion&|
+ |TaylorSeriesExpansionGeneralized| |TaylorSeriesExpansionLaurent|
+ |TaylorSeriesExpansionPuiseux| |TaylorSeriesExpansionTaylor| |TaylorSolve|
+ |UTSodetools| |UnivariateFormalPowerSeries|
+ |UnivariateLaurentSeriesConstructor|
+ |UnivariateLaurentSeriesConstructorCategory|
+ |UnivariateLaurentSeriesConstructorCategory&| |UnivariateTaylorSeries|
+ |UnivariateTaylorSeriesCategory&| |UnivariateTaylorSeriesFunctions2|
+ |UnivariateTaylorSeriesODESolver|)
+(|Lambda| |SKICombinators| |Typed| |Untyped| |compUtil|)
+(|ExtendedPolynomialReduction| |GroebnerInternalPackage| |GroebnerPackage|
+                               |PolynomialRing| |SymmetricPolynomial|)
+(|AlgebraGivenByStructuralConstants| |DenavitHartenbergMatrix|
+                                     |FiniteFieldNormalBasisExtensionByPolynomial|
+                                     |FractionalIdealAsModule|
+                                     |GenericNonAssociativeAlgebra|
+                                     |JetCoordinateTransformation| |Matrix|
+                                     |OrderedDirectProduct| |TensorPower|)
+(|ComplexDoubleFloatVector| |DoubleFloatVector| |IndexedVector| |Vector|
+                            |VectorCategory&|)
+(|XPolynomialRing|)
+(|XDistributedPolynomial| |XExponentialPackage| |XPBWPolynomial| |XPolynomial|
+                          |XRecursivePolynomial|)
+(|Float|)
+(|Float|)
+(|IntegerLocalizedAtPrime|)
+(|Integer| |RomanNumeral| |SingleInteger|)
+(|EqTable| |FiniteLinearAggregateFunctions2| |GeneralPolynomialSet| |HashTable|
+           |InnerCommonDenominator| |InnerTable| |KeyedAccessFile|
+           |ListMultiDictionary| |Multiset| |Result| |SortPackage|
+           |SplittingTree| |StringTable| |Table| |Tree| |XHashTable|)
+(|FiniteLinearAggregateSort| |GeneralPolynomialSet| |LinearSystemMatrixPackage|
+                             |Multiset| |SortPackage| |SplittingTree| |Stream|
+                             |Tree| |XHashTable|)
+(("shallowlyMutable" 123536) ("finiteAggregate" 123252)
+ ("canonicalsClosed" 123209) ("canonicalUnitNormal" 123181)
+ ("arbitraryPrecision" 123171) ("arbitraryExponent" 123161)
+ ("XPolynomialsCat" 123032) ("XAlgebra" 123012) ("VectorCategory" 122892)
+ ("Vector" 122464) ("VariablesCommuteWithCoefficients" 122318)
+ ("VarCat" 122261) ("UnivariateTaylorSeriesCategory" 121437)
+ ("UnivariateTaylorSeries" 121383) ("UnivariateSkewPolynomialCategory" 120997)
+ ("UnivariatePuiseuxSeriesWithExponentialSingularity" 120972)
+ ("UnivariatePuiseuxSeriesConstructorCategory" 120503)
+ ("UnivariatePuiseuxSeriesCategory" 120431) ("UnivariatePuiseuxSeries" 120354)
+ ("UnivariatePowerSeriesCategory" 120078)
+ ("UnivariatePolynomialCategory" 116501)
+ ("UnivariateLaurentSeriesConstructorCategory" 115955)
+ ("UnivariateLaurentSeriesCategory" 115742) ("UnivariateLaurentSeries" 115714)
+ ("UniqueFactorizationDomain" 115518) ("UnaryRecursiveAggregate" 115489)
+ ("U8Vector" 115476) ("U32Vector" 115405) ("U32Matrix" 115374)
+ ("U16Vector" 115360) ("Type" 110352) ("TwoDimensionalArrayCategory" 110001)
+ ("TrigonometricFunctionCategory" 109966) ("TriangularSetCategory" 109891)
+ ("TranscendentalFunctionCategory" 106865) ("ThreeSpaceCategory" 106850)
+ ("TensorProductCategory" 106808) ("TensorPowerCategory" 106769)
+ ("TaylorSeriesExpansion" 106336) ("TableAggregate" 106152)
+ ("SymbolTable" 106133) ("Symbol" 101914) ("StringCategory" 101903)
+ ("StringAggregate" 101866) ("String" 101659)
+ ("StreamTaylorSeriesOperationsCategory" 101594) ("StreamAggregate" 101546)
+ ("StepThrough" 101531) ("StackAggregate" 101508)
+ ("SquareMatrixCategory" 101439) ("SquareMatrix" 101260)
+ ("SquareFreeRegularTriangularSetCategory" 101004) ("SplittingNode" 100986)
+ ("SpecialFunctionCategory" 100801) ("SparseUnivariateTaylorSeries" 100735)
+ ("SparseUnivariatePolynomial" 100482) ("SparseUnivariateLaurentSeries" 100448)
+ ("SparseMultivariatePolynomialExpressions" 100414)
+ ("SparseMultivariatePolynomial" 100180)
+ ("SolvableSkewPolynomialCategory" 100159) ("SingletonAsOrderedSet" 99791)
+ ("SingleInteger" 99743) ("SetCategory" 95330) ("SetAggregate" 95312)
+ ("SequentialDifferentialVariable" 95275) ("SequenceCategory" 95262)
+ ("SemiRng" 94175) ("SemiRing" 94044) ("SegmentCategory" 94013)
+ ("SPointCategory" 93883) ("SExpressionCategory" 93839) ("SExpression" 93789)
+ ("Rng" 93780) ("Ring" 88353) ("RetractableTo" 84476) ("RetractableFrom" 84409)
+ ("RegularTriangularSetCategory" 83959) ("RecursivePolynomialCategory" 82664)
+ ("RecursiveAggregate" 82617) ("RectangularMatrixCategory" 82507)
+ ("RealRootCharacterizationCategory" 82429) ("RealNumberSystem" 82407)
+ ("RealConstant" 82332) ("RealClosedField" 82226) ("RadicalCategory" 82034)
+ ("QuotientFieldCategory" 81235) ("QueueAggregate" 81225)
+ ("QuaternionCategory" 81116) ("Quaternion" 81103) ("Product" 81085)
+ ("PriorityQueueAggregate" 81076) ("PrimitiveTwoDimensionalArray" 81045)
+ ("PrimitiveFunctionCategory" 80714) ("PrimitiveArray" 80587)
+ ("PrimeField" 80521) ("PowerSeriesCategory" 80248) ("PositiveInteger" 78949)
+ ("Poset" 78924) ("PolynomialSetCategory" 78874)
+ ("PolynomialFactorizationExplicit" 77661) ("PolynomialCategory" 75841)
+ ("Polynomial" 75333) ("PointCategory" 75323)
+ ("PoincareBirkhoffWittLyndonBasis" 75304)
+ ("PlottableSpaceCurveCategory" 75264) ("PlottablePlaneCurveCategory" 75229)
+ ("PermutationCategory" 75213) ("PatternMatchable" 74903) ("Pattern" 74607)
+ ("Partition" 74583) ("PartialTranscendentalFunctions" 74355)
+ ("PartialOrder" 74278) ("PartialDifferentialRing" 73997)
+ ("PAdicIntegerCategory" 73886) ("PAdicInteger" 73868)
+ ("OutputFormatterCategory" 73820) ("OutputForm" 73564)
+ ("OrderlyDifferentialVariable" 73530) ("OrderedVariableList" 73152)
+ ("OrderedSet" 68284) ("OrderedRing" 67366) ("OrderedMonoid" 67306)
+ ("OrderedFinite" 67270) ("OrderedCancellationAbelianMonoid" 67256)
+ ("OrderedAbelianSemiGroup" 67183) ("OrderedAbelianMonoidSup" 64173)
+ ("OrderedAbelianMonoid" 63235) ("OrderedAbelianGroup" 63210)
+ ("OpenMath" 63101) ("OneDimensionalArrayAggregate" 62816)
+ ("OneDimensionalArray" 62792) ("OctonionCategory" 62730)
+ ("NonNegativeInteger" 61170) ("NonAssociativeSemiRng" 61143)
+ ("NonAssociativeRng" 61120) ("NonAssociativeRing" 61096)
+ ("NonAssociativeAlgebra" 60974) ("NewSparseMultivariatePolynomial" 60957)
+ ("MultivariateTaylorSeriesCategory" 60834)
+ ("MultivariateSkewPolynomialCategory" 60767) ("MultisetAggregate" 60754)
+ ("MultiDictionary" 60730) ("MonoidRingCategory" 60715) ("Monoid" 60518)
+ ("MonogenicAlgebra" 60013) ("Module" 59555)
+ ("ModularFactorizationOperations" 59434) ("ModularEvaluationCategory" 59367)
+ ("ModularAlgebraicGcdOperations" 59213) ("MaybeSkewPolynomialCategory" 59180)
+ ("MatrixCategory" 58676) ("Matrix" 58535) ("MagmaWithUnit" 58516)
+ ("Magma" 58505) ("MachineFloat" 58486) ("LyndonWord" 58434) ("Logic" 58397)
+ ("ListAggregate" 58281) ("List" 56369) ("LiouvillianFunctionCategory" 56250)
+ ("LinearlyExplicitOver" 54519)
+ ("LinearOrdinaryDifferentialOperatorCategory" 53859) ("LinearAggregate" 53779)
+ ("LieAlgebra" 53763) ("LeftOreRing" 53742) ("LeftModule" 52987)
+ ("LeftAlgebra" 52943) ("LazyStreamAggregate" 52889) ("Lattice" 52838)
+ ("KeyedDictionary" 52817) ("KernelCategory" 52712) ("Kernel" 52661)
+ ("JetBundleFunctionCategory" 52350) ("JetBundleExpression" 52318)
+ ("JetBundleCategory" 51686) ("JetBundleBaseFunctionCategory" 51568)
+ ("IntervalCategory" 51555) ("IntegralDomain" 48352)
+ ("IntegerNumberSystem" 47761) ("Integer" 41842) ("InputForm" 41334)
+ ("InnerPrimeField" 41313) ("InnerEvalable" 41294) ("IndexedVector" 41276)
+ ("IndexedOneDimensionalArray" 41245) ("IndexedExponents" 40328)
+ ("IndexedDirectProductCategory" 40278) ("IndexedAggregate" 40160)
+ ("I8Vector" 40147) ("I32Vector" 40133) ("I16Vector" 40119)
+ ("HyperbolicFunctionCategory" 40087) ("HomogeneousDirectProduct" 40038)
+ ("HomogeneousAggregate" 39987) ("Hashable" 39677) ("Group" 39525)
+ ("GradedModule" 39489) ("GradedAlgebra" 39452) ("GcdDomain" 36603)
+ ("FunctionSpace2" 36583) ("FunctionSpace" 34362)
+ ("FunctionFieldCategory" 33720) ("FullyRetractableTo" 33587)
+ ("FullyLinearlyExplicitOver" 33556) ("FullyEvalableOver" 33522)
+ ("FreeMonoid" 33458) ("FreeModuleCategory" 32939) ("FreeLieAlgebra" 32921)
+ ("FramedNonAssociativeAlgebra" 32598) ("FramedModule" 32580)
+ ("FramedAlgebra" 32322) ("Fraction" 29106) ("FortranScalarType" 29087)
+ ("FortranProgramCategory" 29045) ("FortranMachineTypeCategory" 28974)
+ ("FormatterCategory" 28875) ("FloatingPointSystem" 28653) ("Float" 28529)
+ ("FinitelyGenerated" 28475) ("FiniteSetAggregate" 28397)
+ ("FiniteRankNonAssociativeAlgebra" 28360) ("FiniteRankAlgebra" 28337)
+ ("FiniteLinearAggregate" 27801) ("FiniteGroup" 27754) ("FiniteGraph" 27633)
+ ("FiniteFieldCategory" 25905) ("FiniteDivisorCategory" 25833)
+ ("FiniteBiCPO" 25815) ("FiniteAlgebraicExtensionField" 25060)
+ ("FiniteAbelianMonoidRing" 24639) ("Finite" 24458) ("FileNameCategory" 24445)
+ ("FileName" 24389) ("FileCategory" 24333) ("FieldOfPrimeCharacteristic" 24269)
+ ("Field" 20236) ("FakePolynomial" 20185) ("FacetCategory" 20120)
+ ("ExtensionField" 20100) ("ExtensibleLinearAggregate" 20030)
+ ("ExpressionSpace2" 20008) ("ExpressionSpace" 19861) ("Expression" 19758)
+ ("ExponentialOfUnivariatePuiseuxSeries" 19704) ("Evalable" 19690)
+ ("EuclideanDomain" 18944) ("Equation" 18928) ("EntireRing" 18912)
+ ("EltableAggregate" 18890) ("Eltable" 18751)
+ ("ElementaryFunctionCategory" 18683) ("DoubleFloatVector" 18661)
+ ("DoubleFloat" 18464) ("DivisionRing" 18388) ("DistributionCategory" 18371)
+ ("DirectProductCategory" 17802) ("DirectProduct" 17672)
+ ("DifferentialVariableCategory" 17329) ("DifferentialRing" 16972)
+ ("DifferentialPolynomialCategory" 16756) ("DifferentialExtension" 16698)
+ ("DictionaryOperations" 16672) ("Dictionary" 16656) ("DequeueAggregate" 16644)
+ ("Dcpo" 16629) ("ConvertibleTo" 15452) ("ComplexDoubleFloatVector" 15423)
+ ("ComplexCategory" 15279) ("Complex" 15029) ("Comparable" 11441)
+ ("CommutativeStar" 11295) ("CommutativeRing" 8913)
+ ("CombinatorialOpsCategory" 8784) ("Collection" 8768) ("CoercibleTo" 8069)
+ ("CoercibleFrom" 8044) ("CoDcpo" 8027) ("CharacteristicZero" 6250)
+ ("Character" 6231) ("Canonical" 6114) ("CancellationAbelianMonoid" 6097)
+ ("CachableSet" 6054) ("BoundedLattice" 6043)
+ ("BoundedDistributiveLattice" 5999) ("Boolean" 5884) ("BitAggregate" 5845)
+ ("BinaryTreeCategory" 5727) ("BinaryRecursiveAggregate" 5683)
+ ("BiModule" 5641) ("BiCPO" 5625) ("BasicType" 5487) ("BasicOperator" 5457)
+ ("BalancedPAdicInteger" 5431) ("BagAggregate" 5413) ("Automorphism" 5280)
+ ("AssociationListAggregate" 5232) ("ArcTrigonometricFunctionCategory" 5194)
+ ("Any" 5173) ("AlgebraicallyClosedFunctionSpace" 4190)
+ ("AlgebraicallyClosedField" 3075) ("AlgebraicNumber" 3041) ("Algebra" 1861)
+ ("Aggregate" 1814) ("AbelianSemiGroup" 1765) ("AbelianMonoidRing" 1574)
+ ("AbelianMonoid" 269) ("AbelianGroup" 55) ("AIntervalCategory" 20))
