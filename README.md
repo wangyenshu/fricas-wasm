@@ -3,7 +3,7 @@
 - run `build.sh`
 - run `build_fricas_fs.sh`
 - run `run-web-demo.sh`
-## If you want to compile lisp to bytecode:
+## If you want to compile lisp to bytecode: (integration not working)
 - run `build.sh`
 - run `git clone https://github.com/oldk1331/fricas0.git`, then `cd fricas0`
 - add following to the top of fricas.lisp:
@@ -25,6 +25,9 @@
 # Remark:
 - web-template/fricas-fs.js: this preloads all files listed in fricas-fs.json to IDBFS (recommended for performance)
 - web-template/fricas-fs-lazyloading.js: this loads files on demand
+
+# Issue:
+- integration does not work on chrome
 
 # Credit
 - https://github.com/oldk1331/fricas0
