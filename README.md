@@ -1,4 +1,9 @@
 # How to build?
+## If you want to use raw lisp:
+- run `build.sh`
+- run `build_fricas_fs.sh`
+- run `run-web-demo.sh`
+## If you want to compile lisp to bytecode:
 - run `build.sh`
 - run `git clone https://github.com/oldk1331/fricas0.git`, then `cd fricas0`
 - add following to the top of fricas.lisp:
