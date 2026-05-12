@@ -23,15 +23,11 @@
 - run `cd ..`, then `run-web-demo.sh`
 
 # Remark:
-- web-template/fricas-fs.js: this preloads all files listed in fricas-fs.json to IDBFS (recommended for performance)
-- web-template/fricas-fs-lazyloading.js: this loads files on demand
-- I am not sure if the following flag is needed or not:
-```
--s FORCE_FILESYSTEM=1 -s EXPORTED_RUNTIME_METHODS=['FS_createPath','FS_createDataFile','addRunDependency','removeRunDependency']
-```
+- web-template/fricas-fs.js: This script preloads files listed in `startup_manifest.json` into idbfs and lazyloads the remaining files.
+- build_startup_manifest.js: This node script is used to create `startup_manifest.json`. Place and execute it in web root and visit localhost:9999 to capture and overwrite the `startup_manifest.json` file.
+- deprecated/fricas-fs-lazyloading.js: This script lazyloades all files.
 
 # Issue:
-- intial loading on chrome fails, refreshing works
 - integration does not work on chrome
 
 # Credit

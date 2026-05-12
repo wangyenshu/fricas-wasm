@@ -52,30 +52,52 @@ self.Module.preRun.push(function() {
                 });
 
                 var needsSave = false;
+                var startupSet = new Set();
+
+                try {
+                    const manifestRes = await fetch('startup_manifest.json');
+                    if (manifestRes.ok) {
+                        const manifest = await manifestRes.json();
+                        manifest.forEach(p => {
+                            if (p.startsWith('/')) p = p.substring(1);
+                            startupSet.add(p);
+                        });
+                    }
+                } catch (e) {}
 
                 var fetchPromises = fileList.map(async function(appPath) {
                     var fetchPath = 'fricas0/' + appPath.split('/').map(encodeURIComponent).join('/');
                     var idbfsPath = '/fricas_idb_cache/' + appPath;
                     var finalAppPath = '/fricas0/' + appPath;
 
-                    try {
-                        FS.stat(idbfsPath);
-                        FS.writeFile(finalAppPath, FS.readFile(idbfsPath));
-                    } catch (e) {
+                    var parts = appPath.split('/');
+                    var fileName = parts.pop();
+                    var parentDir = '/fricas0' + (parts.length > 0 ? '/' + parts.join('/') : '');
+
+                    if (startupSet.has(appPath)) {
                         try {
-                            const response = await fetch(fetchPath);
-                            if (response.ok) {
-                                const buffer = await response.arrayBuffer();
-                                const data = new Uint8Array(buffer);
-                                FS.writeFile(finalAppPath, data);
-                                FS.writeFile(idbfsPath, data);
-                                needsSave = true;
-                            } else {
-                                console.error("Failed to fetch:", fetchPath);
+                            FS.stat(idbfsPath);
+                            FS.writeFile(finalAppPath, FS.readFile(idbfsPath));
+                        } catch (e) {
+                            try {
+                                const response = await fetch(fetchPath);
+                                if (response.ok) {
+                                    const buffer = await response.arrayBuffer();
+                                    const data = new Uint8Array(buffer);
+                                    FS.writeFile(finalAppPath, data);
+                                    FS.writeFile(idbfsPath, data);
+                                    needsSave = true;
+                                } else {
+                                    console.error("Failed to fetch:", fetchPath, "- falling back to lazy loading.");
+                                    FS.createLazyFile(parentDir, fileName, fetchPath, true, false);
+                                }
+                            } catch (fetchErr) {
+                                console.error("Network error on:", fetchPath, "- falling back to lazy loading.");
+                                FS.createLazyFile(parentDir, fileName, fetchPath, true, false);
                             }
-                        } catch (fetchErr) {
-                            console.error("Network error on:", fetchPath);
                         }
+                    } else {
+                        FS.createLazyFile(parentDir, fileName, fetchPath, true, false);
                     }
                 });
 

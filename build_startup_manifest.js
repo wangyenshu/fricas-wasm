@@ -33,9 +33,31 @@ const server = http.createServer((req, res) => {
             return;
         }
 
-        const ignored = ['/favicon.ico', '/index.html', '/startup_manifest.json', 'coi-serviceworker.js', 'ecl-worker.js', 'fricas-fs.js', 'ecl.js', 'ecl.wasm', 'fricas-fs.json'];
+        const ignored = [
+            '/favicon.ico', 
+            '/index.html', 
+            '/startup_manifest.json', 
+            '/coi-serviceworker.js', 
+            '/ecl-worker.js', 
+            '/fricas-fs.js', 
+            '/ecl.js', 
+            '/ecl.wasm', 
+            '/fricas-fs.json',
+            'coi-serviceworker.js', 
+            'ecl-worker.js', 
+            'fricas-fs.js', 
+            'ecl.js', 
+            'ecl.wasm', 
+            'fricas-fs.json'
+        ];
+
         if (!ignored.includes(localDiskPath)) {
             let manifestPath = localDiskPath.startsWith('/') ? localDiskPath.substring(1) : localDiskPath;
+            
+            // STRIP THE DIRECTORY PREFIX TO MATCH fricas-fs.json
+            if (manifestPath.startsWith('fricas0/')) {
+                manifestPath = manifestPath.substring(8);
+            }
             
             if (!requestedFiles.has(manifestPath)) {
                 requestedFiles.add(manifestPath);
@@ -52,6 +74,7 @@ const server = http.createServer((req, res) => {
         else if (urlPath.endsWith('.js')) contentType = 'text/javascript';
         else if (urlPath.endsWith('.wasm')) contentType = 'application/wasm';
         else if (urlPath.endsWith('.css')) contentType = 'text/css';
+        else if (urlPath.endsWith('.json')) contentType = 'application/json'; // Added JSON MIME type
 
         res.writeHead(200, {
             'Content-Type': contentType,
