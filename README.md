@@ -28,7 +28,7 @@
 - deprecated/fricas-fs-lazyloading.js: This script lazyloades all files.
 
 # Issue:
-- integration does not work on chrome
+- On Chrome, When devtools is toggled, any computation will fail.
 
 # Credit
 - https://github.com/oldk1331/fricas0
